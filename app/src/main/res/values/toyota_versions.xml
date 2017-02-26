@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="avensis_versions">
+        <item>T22 (1997-2002)</item>
+        <item>T25 (2003-2009)</item>
+        <item>T27 (2009-)</item>
+    </string-array>
+
+    <string-array name="camry_versions">
+        <item>XV20 (1996-2001)</item>
+        <item>XV30 (2001-2006)</item>
+        <item>XV40 (2006-2011)</item>
+        <item>XV50 (2011-)</item>
+    </string-array>
+
+    <string-array name="corolla_versions">
+        <item>E12 (2001-2006)</item>
+        <item>E15 (2006-2012)</item>
+        <item>E17 (2009-)</item>
+    </string-array>
+
+    <string-array name="fj_cruiser_versions">
+        <item>FJ Cruiser (2006-)</item>
+    </string-array>
+
+    <string-array name="highlander_versions">
+        <item>XU40 (2007-2013)</item>
+        <item>XU50 (2013-)</item>
+    </string-array>
+
+    <string-array name="land_cruiser_versions">
+        <item>TLC100 (1998-2007)</item>
+        <item>TLC200 (2007-)</item>
+    </string-array>
+
+    <string-array name="prado_versions">
+        <item>TLC120 (2002-2009)</item>
+        <item>TLC150 (2009-)</item>
+    </string-array>
+
+    <string-array name="rav4_versions">
+        <item>CA20W (2000-2005)</item>
+        <item>CA30W (2005-2012)</item>
+        <item>RAV4 4 (2013-)</item>
+    </string-array>
+
+    <string-array name="sienna_versions">
+        <item>Sienna (2004-)</item>
+    </string-array>
+
+    <string-array name="venza_versions">
+        <item>Venza (2008-)</item>
+    </string-array>
+
+    <string-array name="yaris_versions">
+        <item>Yaris (1999-2012)</item>
+    </string-array>
+</resources>

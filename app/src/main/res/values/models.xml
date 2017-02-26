@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="audi_models">
+        <item>A1</item>
+        <item>A3</item>
+        <item>A4</item>
+        <item>A5</item>
+        <item>A6</item>
+        <item>A7</item>
+        <item>A8</item>
+        <item>Q3</item>
+        <item>Q5</item>
+        <item>Q7</item>
+        <item>TT</item>
+    </string-array>
+
+    <string-array name="bmw_models">
+        <item>Series 1</item>
+        <item>Series 3</item>
+        <item>Series 4</item>
+        <item>Series 5</item>
+        <item>Series 6</item>
+        <item>Series 7</item>
+        <item>X1</item>
+        <item>X3</item>
+        <item>X4</item>
+        <item>X5</item>
+        <item>X6</item>
+    </string-array>
+
+    <string-array name="mercedes_benz_models">
+        <item>A-class</item>
+        <item>B-class</item>
+        <item>C-class</item>
+        <item>CLK</item>
+        <item>CLS</item>
+        <item>E-class</item>
+        <item>G-class</item>
+        <item>GL-class</item>
+        <item>GLK-class</item>
+        <item>ML-class</item>
+        <item>R-class</item>
+        <item>S-class</item>
+        <item>SL-class</item>
+        <item>SLK-class</item>
+        <item>Sprinter</item>
+        <item>Vito</item>
+    </string-array>
+
+    <string-array name="mitsubishi_models">
+        <item>Carisma</item>
+        <item>Galant</item>
+        <item>Grandis</item>
+        <item>L200</item>
+        <item>Lancer</item>
+        <item>Outlander</item>
+        <item>Pajero</item>
+        <item>Space Star</item>
+    </string-array>
+
+    <string-array name="toyota_models">
+        <item>Avensis</item>
+        <item>Camry</item>
+        <item>Corolla</item>
+        <item>FJ Cruiser</item>
+        <item>Highlander</item>
+        <item>Land Cruiser</item>
+        <item>Prado</item>
+        <item>RAV4</item>
+        <item>Sienna</item>
+        <item>Venza</item>
+        <item>Yaris</item>
+    </string-array>
+
+    <string-array name="volkswagen_models">
+        <item>Amarok</item>
+        <item>Bora</item>
+        <item>Caddy</item>
+        <item>Golf</item>
+        <item>Jetta</item>
+        <item>Passat</item>
+        <item>Phaeton</item>
+        <item>Polo</item>
+        <item>Sharan</item>
+        <item>Tiguan</item>
+        <item>Touareg</item>
+        <item>Touran</item>
+        <item>Transporter</item>
+    </string-array>
+</resources>

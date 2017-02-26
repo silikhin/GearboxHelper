@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="carisma_versions">
+        <item>Carisma (1995-2004)</item>
+    </string-array>
+
+    <string-array name="galant_versions">
+        <item>Galant (1999-)</item>
+    </string-array>
+
+    <string-array name="grandis_versions">
+        <item>Grandis (2004-)</item>
+    </string-array>
+
+    <string-array name="l200_versions">
+        <item>L200 (2005-2014)</item>
+    </string-array>
+
+    <string-array name="lancer_versions">
+        <item>Lancer (-2005)</item>
+        <item>IX (2005-2008)</item>
+        <item>X (2008-)</item>
+    </string-array>
+
+    <string-array name="outlander_versions">
+        <item>Outlander (2001-2006)</item>
+        <item>XL (2006-2013)</item>
+    </string-array>
+
+    <string-array name="pajero_versions">
+        <item>Sport (1997-)</item>
+        <item>Wagon (1999-)</item>
+    </string-array>
+
+    <string-array name="space_star_versions">
+        <item>Space Star (1998-2005)</item>
+    </string-array>
+</resources>

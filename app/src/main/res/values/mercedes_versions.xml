@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+     <string-array name="a_class_versions">
+        <item>W168 (1997-2004)</item>
+        <item>W169 (2004-2012)</item>
+    </string-array>
+    
+    <string-array name="b_class_versions">
+        <item>W245 (2005-2011)</item>
+    </string-array>
+    
+    <string-array name="c_class_versions">
+        <item>W202 (1993-2001)</item>
+        <item>W203 (2000-2007)</item>
+        <item>W204 (2007-2014)</item>
+        <item>W205 (2014-)</item>
+    </string-array>
+    
+    <string-array name="clk_versions">
+        <item>W208 (1997-2002)</item>
+        <item>W209 (2002-)</item>
+    </string-array>
+    
+    <string-array name="cls_versions">
+        <item>C219 (2004-2010)</item>
+        <item>C218 (2011-)</item>
+    </string-array>
+
+    <string-array name="e_class_versions">
+        <item>W210 (1995-2002)</item>
+        <item>W211 (2002-2009)</item>
+        <item>W212 (2009-)</item>
+    </string-array>
+    
+    <string-array name="g_class_versions">
+        <item>W463 (1992-)</item>
+    </string-array>
+    
+    <string-array name="gl_class_versions">
+        <item>X164 (2006-2012)</item>
+        <item>X166 (2012-)</item>
+    </string-array>
+    
+    <string-array name="glk_class_versions">
+        <item>X204 (2008-)</item>
+    </string-array>
+    
+    <string-array name="ml_class_versions">
+        <item>W163 (1998-2005)</item>
+        <item>W164 (2006-2011)</item>
+        <item>W166 (2011-)</item>
+    </string-array>
+
+    <string-array name="r_class_versions">
+        <item>W251 (2005-2015)</item>
+    </string-array>
+
+    <string-array name="s_class_versions">
+        <item>W140 (1992-1998)</item>
+        <item>W220 (1998-2005)</item>
+        <item>W221 (2005-2013)</item>
+    </string-array>
+    
+    <string-array name="sl_class_versions">
+        <item>R129 (1989-2000)</item>
+        <item>R230 (2001-2013)</item>
+        <item>R231 (2012-)</item>
+    </string-array>
+    
+    <string-array name="slk_class_versions">
+        <item>R170 (1996-2004)</item>
+        <item>R171 (2004-2011)</item>
+        <item>R172 (2011-)</item>
+    </string-array>
+    
+    <string-array name="sprinter_versions">
+        <item>Sprinter_I (1995-2005)</item>
+        <item>Sprinter_II (2006-)</item>
+    </string-array>
+    
+    <string-array name="vito_versions">
+        <item>W638 (1996-2003)</item>
+        <item>W639 (2004-)</item>
+    </string-array>
+</resources>

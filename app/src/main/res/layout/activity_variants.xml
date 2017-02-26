@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:orientation="vertical">
+    <TextView
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:background="@color/colorLayout100"
+        android:gravity="center_horizontal"
+        android:padding="15dp"
+        android:text="Варіанти АКПП, які встановлювались на авто:"
+        android:textSize="20dp">
+    </TextView>
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            app:srcCompat="@drawable/ic_act_variants"
+            android:id="@+id/imageView2"
+            android:alpha="0.1"/>
+
+        <ListView
+            android:id="@+id/lvMain"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_alignParentTop="true"
+            android:layout_centerVertical="true">
+        </ListView>
+
+
+    </RelativeLayout>
+
+</LinearLayout>

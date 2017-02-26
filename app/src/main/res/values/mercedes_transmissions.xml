@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="w168">
+        <item>722.7 (5ст. АКПП)</item>
+    </string-array>
+    
+    <string-array name="w169">
+        <item>722.8 (CVT)</item>
+    </string-array>
+    
+    <string-array name="w245">
+        <item>722.8 (CVT)</item>
+    </string-array>
+    
+    <string-array name="w202">
+        <item>722.4 (4ст. АКПП)</item>
+        <item>722.6 (5ст. АКПП)</item>
+    </string-array>
+
+    <string-array name="w203">
+        <item>722.6 (5ст. АКПП)</item>
+    </string-array>
+
+    <string-array name="w204">
+        <item>722.9 (7ст. АКПП)</item>
+    </string-array>
+    
+    <string-array name="w205">
+        <item>722.9 (7ст. АКПП)</item>
+    </string-array>
+    
+    <string-array name="w208">
+        <item>722.6 (5ст. АКПП)</item>
+    </string-array>
+    
+    <string-array name="w209">
+        <item>722.9 (7ст. АКПП)</item>
+    </string-array>
+    
+    <string-array name="c219">
+        <item>722.9 (7ст. АКПП)</item>
+    </string-array>
+    
+    <string-array name="c218">
+        <item>722.9 (7ст. АКПП)</item>
+    </string-array>
+
+    <string-array name="w210">
+        <item>722.4 (4ст. АКПП)</item>
+        <item>722.6 (5ст. АКПП)</item>
+    </string-array>
+
+    <string-array name="w211">
+        <item>722.6 (5ст. АКПП)</item>
+        <item>722.9 (7ст. АКПП)</item>
+    </string-array>
+
+    <string-array name="w212">
+        <item>722.9 (7ст. АКПП)</item>
+    </string-array>
+    
+    <string-array name="w463">
+        <item>722.6 (5ст. АКПП)</item>
+        <item>722.9 (7ст. АКПП)</item>
+    </string-array>
+    
+    <string-array name="x164">
+        <item>722.9 (7ст. АКПП)</item>
+    </string-array>
+    
+    <string-array name="x166">
+        <item>722.9 (7ст. АКПП)</item>
+    </string-array>
+    
+    <string-array name="x204">
+        <item>722.9 (7ст. АКПП)</item>
+    </string-array>
+    
+    <string-array name="w163">
+        <item>722.6 (5ст. АКПП)</item>
+    </string-array>
+    
+    <string-array name="w164">
+        <item>722.9 (7ст. АКПП)</item>
+    </string-array>
+    
+    <string-array name="w166">
+        <item>722.9 (7ст. АКПП)</item>
+    </string-array>
+
+    <string-array name="w251">
+        <item>722.9 (7ст. АКПП)</item>
+    </string-array>
+
+    <string-array name="w140">
+        <item>722.3 (4ст. АКПП)</item>
+        <item>722.5 (4ст. АКПП)</item>
+        <item>722.6 (5ст. АКПП)</item>
+    </string-array>
+
+    <string-array name="w220">
+        <item>722.6 (5ст. АКПП)</item>
+    </string-array>
+
+    <string-array name="w221">
+        <item>722.9 (7ст. АКПП)</item>
+    </string-array>
+    
+    <string-array name="r129">
+        <item>722.3 (4ст. АКПП)</item>
+        <item>722.4 (4ст. АКПП)</item>
+        <item>722.5 (4ст. АКПП)</item>
+        <item>722.6 (5ст. АКПП)</item>
+    </string-array>
+    
+    <string-array name="r230">
+        <item>722.6 (5ст. АКПП)</item>
+        <item>722.9 (7ст. АКПП)</item>
+    </string-array>
+    
+    <string-array name="r231">
+        <item>722.9 (7ст. АКПП)</item>
+    </string-array>
+    
+    <string-array name="r170">
+        <item>722.6 (5ст. АКПП)</item>
+    </string-array>
+    
+    <string-array name="r171">
+        <item>722.6 (5ст. АКПП)</item>
+    </string-array>
+    
+    <string-array name="r172">
+        <item>722.9 (7ст. АКПП)</item>
+    </string-array>
+    
+    <string-array name="sprinter_i">
+        <item>722.3 (4ст. АКПП)</item>
+        <item>722.6 (5ст. АКПП)</item>
+    </string-array>
+    
+    <string-array name="sprinter_ii">
+        <item>722.6 (5ст. АКПП)</item>
+        <item>722.9 (7ст. АКПП)</item>
+    </string-array>
+    
+    <string-array name="w638">
+        <item>4HP20 ZF (4ст. АКПП)</item>
+    </string-array>
+    
+    <string-array name="w639">
+        <item>722.6 (5ст. АКПП)</item>
+        <item>722.9 (7ст. АКПП)</item>
+    </string-array>
+</resources>

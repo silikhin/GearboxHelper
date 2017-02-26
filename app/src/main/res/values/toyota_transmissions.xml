@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="t22">
+        <item>A240E (4ст. АКПП)</item>
+        <item>A245E (4ст. АКПП)</item>
+        <item>U140E (4ст. АКПП)</item>
+    </string-array>
+
+    <string-array name="t25">
+        <item>U241E (4ст. АКПП)</item>
+        <item>U341E (4ст. АКПП)</item>
+        <item>U151E (5ст. АКПП)</item>
+    </string-array>
+
+    <string-array name="t27">
+        <item>U660E (6ст. АКПП)</item>
+        <item>K111 (CVT)</item>
+        <item>K311 (CVT)</item>
+    </string-array>
+
+    <string-array name="xv20">
+        <item>A140E (4ст. АКПП)</item>
+        <item>A541E (4ст. АКПП)</item>
+    </string-array>
+
+    <string-array name="xv30">
+        <item>U140E (4ст. АКПП)</item>
+        <item>U241E (4ст. АКПП)</item>
+        <item>A541E (4ст. АКПП)</item>
+        <item>U151E (5ст. АКПП)</item>
+        <item>U250E (5ст. АКПП)</item>
+    </string-array>
+
+    <string-array name="xv40">
+        <item>U250E (5ст. АКПП)</item>
+        <item>U660E (6ст. АКПП)</item>
+    </string-array>
+
+    <string-array name="xv50">
+        <item>U660E (6ст. АКПП)</item>
+        <item>U760E (6ст. АКПП)</item>
+    </string-array>
+
+    <string-array name="e12">
+        <item>A246E (4ст. АКПП)</item>
+        <item>U341E (4ст. АКПП)</item>
+    </string-array>
+
+    <string-array name="e15">
+        <item>U341E (4ст. АКПП)</item>
+        <item>Sequental (робот)</item>
+    </string-array>
+
+    <string-array name="e17">
+        <item>K311 (CVT)</item>
+    </string-array>
+
+    <string-array name="fj">
+        <item>A750F (5ст. АКПП)</item>
+    </string-array>
+
+    <string-array name="xu40">
+        <item>U151E (5ст. АКПП)</item>
+        <item>U250E (5ст. АКПП)</item>
+        <item>U760E (6ст. АКПП)</item>
+    </string-array>
+
+    <string-array name="xu50">
+        <item>U660E (6ст. АКПП)</item>
+        <item>U760E (6ст. АКПП)</item>
+    </string-array>
+
+    <string-array name="tlc100">
+        <item>A343F (4ст. АКПП)</item>
+        <item>A442F (4ст. АКПП)</item>
+        <item>A750F (5ст. АКПП)</item>
+    </string-array>
+
+    <string-array name="tlc200">
+        <item>A750F (5ст. АКПП)</item>
+        <item>AB60F (6ст. АКПП)</item>
+    </string-array>
+
+    <string-array name="tlc120">
+        <item>A343F (4ст. АКПП)</item>
+        <item>A750F (5ст. АКПП)</item>
+    </string-array>
+
+    <string-array name="tlc150">
+        <item>A750F (5ст. АКПП)</item>
+    </string-array>
+
+    <string-array name="ca20w">
+        <item>U140E (4ст. АКПП)</item>
+        <item>U241E (4ст. АКПП)</item>
+    </string-array>
+
+    <string-array name="ca30w">
+        <item>U140E (4ст. АКПП)</item>
+        <item>U241E (4ст. АКПП)</item>
+        <item>U151E (5ст. АКПП)</item>
+        <item>U660E (6ст. АКПП)</item>
+        <item>K111 (CVT)</item>
+    </string-array>
+
+    <string-array name="rav4">
+        <item>U660E (6ст. АКПП)</item>
+        <item>U760E (6ст. АКПП)</item>
+        <item>K111 (CVT)</item>
+    </string-array>
+
+    <string-array name="sienna">
+        <item>U151E (5ст. АКПП)</item>
+        <item>U660E (6ст. АКПП)</item>
+        <item>U760E (6ст. АКПП)</item>
+    </string-array>
+
+    <string-array name="venza">
+        <item>U660E (6ст. АКПП)</item>
+        <item>U760E (6ст. АКПП)</item>
+    </string-array>
+
+    <string-array name="yaris">
+        <item>U441E (4ст. АКПП)</item>
+    </string-array>
+</resources>

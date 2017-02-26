@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Дукат-Оіл АКПП</string>
+    <string name="text_view_1">Виберіть марку автомобіля</string>
+    <string name="text_view_2">Виберіть модель автомобіля</string>
+    <string name="text_view_3">Виберіть версію автомобіля</string>
+    <string name="text_dialog_title">Визначення АКПП:</string>
+    <string name="button_ok">OK</string>
+</resources>

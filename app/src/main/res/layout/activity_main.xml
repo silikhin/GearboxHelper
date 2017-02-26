@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:orientation="vertical"
+    android:weightSum="1">
+
+    <LinearLayout
+        android:orientation="horizontal"
+        android:layout_width="match_parent"
+        android:padding="10dp"
+        android:background="@color/colorLayout100"
+        android:id="@+id/llPrimary1"
+        android:layout_height="55dp">
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/text_view_1"
+            android:layout_gravity="center_vertical"
+            android:id="@+id/tv1"
+            android:clickable="true"
+            android:gravity="center_vertical|center_horizontal"
+            android:fontFamily="sans-serif"
+            android:textSize="20dp"
+            android:textColor="@color/textColor90a" />
+    </LinearLayout>
+
+    <LinearLayout
+        android:orientation="horizontal"
+        android:layout_width="match_parent"
+        android:id="@+id/llCars"
+        android:layout_height="0dp"
+        android:elevation="0dp">
+
+        <ListView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/lvCars"
+            android:elevation="1dp" />
+    </LinearLayout>
+
+    <LinearLayout
+        android:orientation="horizontal"
+        android:layout_width="match_parent"
+        android:padding="10dp"
+        android:id="@+id/llPrimary2"
+        android:layout_height="55dp">
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/text_view_2"
+            android:id="@+id/tv2"
+            android:layout_gravity="center_vertical"
+            android:clickable="true"
+            android:gravity="center_vertical|center_horizontal"
+            android:textSize="20dp"
+            android:fontFamily="sans-serif"
+            android:textColor="@color/textColor54a" />
+    </LinearLayout>
+
+    <LinearLayout
+        android:orientation="horizontal"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:id="@+id/llModels">
+
+        <ListView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/lvModels" />
+    </LinearLayout>
+
+    <LinearLayout
+        android:orientation="horizontal"
+        android:layout_width="match_parent"
+        android:padding="10dp"
+        android:paddingLeft="16dp"
+        android:paddingRight="16dp"
+        android:id="@+id/llPrimary3"
+        android:layout_height="55dp">
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/text_view_3"
+            android:id="@+id/tv3"
+            android:textSize="20dp"
+            android:layout_gravity="center_vertical"
+            android:clickable="true"
+            android:gravity="center_vertical|center_horizontal"
+            android:fontFamily="sans-serif"
+            android:textColor="@color/textColor54a" />
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:orientation="horizontal"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:id="@+id/llVersions">
+
+        <ListView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:id="@+id/lvVersions" />
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:orientation="horizontal"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:id="@+id/llPrimary4">
+
+        <ImageView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            app:srcCompat="@drawable/ic_image_main"
+            android:id="@+id/imageView3"
+            android:layout_weight="1"
+            android:layout_gravity="center_vertical" />
+    </LinearLayout>
+
+</LinearLayout>

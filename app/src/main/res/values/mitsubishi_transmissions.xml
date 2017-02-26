@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="carisma">
+        <item>F4A42 (4ст. АКПП)</item>
+    </string-array>
+
+    <string-array name="galant">
+        <item>F4A42 (4ст. АКПП)</item>
+    </string-array>
+
+    <string-array name="grandis">
+        <item>F4A42 (4ст. АКПП)</item>
+    </string-array>
+
+    <string-array name="l200">
+        <item>V4A51 (4ст. АКПП)\n(піддон 20 отв.)</item>
+        <item>V5A51 (5ст. АКПП)\n(піддон 20 отв.)</item>
+        <item>AW03-71 Aisin Warner (4ст. АКПП)\n(піддон 14 отв.)</item>
+        <item>AW30-43 Aisin Warner (4ст. АКПП)\n(піддон 19 отв.)</item>
+    </string-array>
+
+    <string-array name="lancer">
+        <item>F4A42 (4ст. АКПП)</item>
+    </string-array>
+
+    <string-array name="ix">
+        <item>F4A42 (4ст. АКПП)</item>
+        <item>F1C1 (CVT без піддону)</item>
+    </string-array>
+
+    <string-array name="x">
+        <item>F4A42 (4ст. АКПП)</item>
+        <item>JF011E (CVT з піддоном)</item>
+    </string-array>
+
+    <string-array name="outlander">
+        <item>F4A42 (4ст. АКПП)</item>
+    </string-array>
+
+    <string-array name="xl">
+        <item>JF011E (CVT з піддоном)</item>
+        <item>JF613E (6ст. АКПП)</item>
+    </string-array>
+
+    <string-array name="sport">
+        <item>V4A51 (4ст. АКПП)\n(піддон 20 отв.)</item>
+        <item>V5A51 (5ст. АКПП)\n(піддон 20 отв.)</item>
+        <item>AW03-71 Aisin Warner (4ст. АКПП)\n(піддон 14 отв.)</item>
+        <item>AW30-43 Aisin Warner (4ст. АКПП)\n(піддон 19 отв.)</item>
+    </string-array>
+
+    <string-array name="wagon">
+        <item>V4A51 (4ст. АКПП)\n(піддон 20 отв.)</item>
+        <item>V5A51 (5ст. АКПП)\n(піддон 20 отв.)</item>
+        <item>AW03-71 Aisin Warner (4ст. АКПП)\n(піддон 14 отв.)</item>
+        <item>AW30-43 Aisin Warner (4ст. АКПП)\n(піддон 19 отв.)</item>
+    </string-array>
+
+    <string-array name="space">
+        <item>F4A42 (4ст. АКПП)</item>
+    </string-array>
+</resources>

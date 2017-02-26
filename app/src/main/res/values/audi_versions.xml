@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="a1_versions">
+        <item>A1 (2010-)</item>
+    </string-array>
+
+    <string-array name="a3_versions">
+        <item>A3_8L (1996-2003)</item>
+        <item>A3_8P (2003-2012)</item>
+        <item>A3_8V (2012-)</item>
+    </string-array>
+
+    <string-array name="a4_versions">
+        <item>B5 (1995-2001)</item>
+        <item>B6 (2000-2004)</item>
+        <item>B7 (2004-2007)</item>
+        <item>B8 (2007-2015)</item>
+    </string-array>
+
+    <string-array name="a5_versions">
+        <item>A5 (2007-)</item>
+    </string-array>
+
+    <string-array name="a6_versions">
+        <item>C4 (1994-1997)</item>
+        <item>C5 (1997-2004)</item>
+        <item>C6 (2004-2011)</item>
+        <item>C7 (2011-)</item>
+    </string-array>
+
+    <string-array name="a7_versions">
+        <item>A7 (2010-)</item>
+    </string-array>
+
+    <string-array name="a8_versions">
+        <item>D2 (1994-2002)</item>
+        <item>D3 (2002-2010)</item>
+        <item>D4 (2010-)</item>
+    </string-array>
+
+    <string-array name="q3_versions">
+        <item>Q3 (2011-)</item>
+    </string-array>
+
+    <string-array name="q5_versions">
+        <item>Q5 (2008-)</item>
+    </string-array>
+
+    <string-array name="q7_versions">
+        <item>Q7 (2005-2015)</item>
+    </string-array>
+
+    <string-array name="tt_versions">
+        <item>TT_8N (1998-2006)</item>
+        <item>TT_8J (2006-2013)</item>
+        <item>TT_8S (2014-)</item>
+    </string-array>
+</resources>

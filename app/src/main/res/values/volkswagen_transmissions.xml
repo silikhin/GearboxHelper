@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="amarok">
+        <item>8HP45 (8ст. АКПП)</item>
+    </string-array>
+
+    <string-array name="bora">
+        <item>01M VAG (4ст АКПП)\n(піддон 4 болти)</item>
+        <item>09A (5ст АКПП)</item>
+    </string-array>
+
+    <string-array name="caddy">
+        <item>02E (DQ250) (DSG 6ст.)</item>
+        <item>DQ200 (S-tronic)(DSG 7ст.)\n НЕ обслуговувати!</item>
+    </string-array>
+
+    <string-array name="iii">
+        <item>01M VAG (4ст АКПП)\n(піддон 4 болти)</item>
+    </string-array>
+
+    <string-array name="iv">
+        <item>01M VAG (4ст АКПП)\n(піддон 4 болти)</item>
+        <item>09A (5ст АКПП)</item>
+    </string-array>
+
+    <string-array name="v">
+        <item>09G (6ст. АКПП)</item>
+        <item>02E (DQ250) (DSG 6ст.)</item>
+        <item>DQ200 (S-tronic)(DSG 7ст.)\n НЕ обслуговувати!</item>
+    </string-array>
+
+    <string-array name="vi">
+        <item>09G (6ст. АКПП)</item>
+        <item>02E (DQ250) (DSG 6ст.)</item>
+        <item>DQ200 (S-tronic)(DSG 7ст.)\n НЕ обслуговувати!</item>
+    </string-array>
+
+    <string-array name="vii">
+        <item>09G (6ст. АКПП)</item>
+        <item>02E (DQ250) (DSG 6ст.)</item>
+        <item>DQ200 (S-tronic)(DSG 7ст.)\n НЕ обслуговувати!</item>
+    </string-array>
+
+    <string-array name="jetta">
+        <item>09G (6ст. АКПП)</item>
+        <item>02E (DQ250) (DSG 6ст.)</item>
+        <item>DQ200 (S-tronic)(DSG 7ст.)\n НЕ обслуговувати!</item>
+    </string-array>
+
+    <string-array name="в5">
+        <item>01N VAG (4ст АКПП)\n(піддон 5 болтів)</item>
+        <item>5HP19 (01V VAG)\n(5ст АКПП)</item>
+    </string-array>
+
+    <string-array name="в6">
+        <item>09G (6ст. АКПП)</item>
+        <item>09M (6ст. АКПП)</item>
+        <item>02E (DQ250) (DSG 6ст.)</item>
+        <item>DQ200 (S-tronic)(DSG 7ст.)\n НЕ обслуговувати!</item>
+    </string-array>
+
+    <string-array name="в7">
+        <item>02E (DQ250) (DSG 6ст.)</item>
+        <item>DQ200 (S-tronic)(DSG 7ст.)\n НЕ обслуговувати!</item>
+    </string-array>
+
+    <string-array name="в8">
+        <item>02E (DQ250) (DSG 6ст.)</item>
+        <item>DQ200 (S-tronic)(DSG 7ст.)\n НЕ обслуговувати!</item>
+        <item>DQ500 (S-tronic)(DSG 7ст.)\n НЕ обслуговувати!</item>
+    </string-array>
+
+    <string-array name="phaeton">
+        <item>5HP19 (01V VAG)\n(5ст АКПП)</item>
+        <item>01L VAG (5ст. АКПП)</item>
+        <item>09E (6ст. АКПП)</item>
+        <item>09L (6ст. АКПП)</item>
+    </string-array>
+
+    <string-array name="polo_iii">
+        <item>JF404E Aisin Warner (4ст. АКПП)\n(піддон 17 болтів)</item>
+        <item>01M VAG (4ст АКПП)\n(піддон 4 болти)</item>
+    </string-array>
+
+    <string-array name="polo_iv">
+        <item>JF404E Aisin Warner (4ст. АКПП)\n(піддон 17 болтів)</item>
+        <item>09G (6ст. АКПП)\n(піддон 17 болтів)</item>
+        <item>09M (6ст. АКПП)\n(піддон 9 болтів)</item>
+    </string-array>
+
+    <string-array name="polo_v">
+        <item>09M (6ст. АКПП)</item>
+        <item>DQ200 (S-tronic)(DSG 7ст.)\n НЕ обслуговувати!</item>
+    </string-array>
+    
+    <string-array name="sharan">
+        <item>01P VAG (4ст АКПП)\n(піддон 5 болтів)</item>
+        <item>09A (5ст АКПП)</item>
+    </string-array>
+
+    <string-array name="sharan_2">
+        <item>02E (DQ250) (DSG 6ст.)</item>
+        <item>DQ200 (S-tronic)(DSG 7ст.)\n НЕ обслуговувати!</item>
+        <item>DQ500 (S-tronic)(DSG 7ст.)\n НЕ обслуговувати!</item>
+    </string-array>
+
+    <string-array name="tiguan">
+        <item>09M (6ст. АКПП)</item>
+        <item>02E (DQ250) (DSG 6ст.)</item>
+        <item>DQ200 (S-tronic)(DSG 7ст.)\n НЕ обслуговувати!</item>
+        <item>DQ500 (S-tronic)(DSG 7ст.)\n НЕ обслуговувати!</item>
+    </string-array>
+
+    <string-array name="touareg">
+        <item>09D (6ст АКПП)</item>
+    </string-array>
+
+    <string-array name="touareg_2">
+        <item>0C8 (8ст АКПП)</item>
+    </string-array>
+
+    <string-array name="touran">
+        <item>09G (6ст. АКПП)</item>
+        <item>02E (DQ250) (DSG 6ст.)</item>
+        <item>DQ200 (S-tronic)(DSG 7ст.)\n НЕ обслуговувати!</item>
+    </string-array>
+
+    <string-array name="t4">
+        <item>01P VAG (4ст АКПП)\n(піддон 5 болтів)</item>
+    </string-array>
+
+    <string-array name="t5">
+        <item>09K (6ст. АКПП)</item>
+        <item>DQ500 (S-tronic)(DSG 7ст.)\n НЕ обслуговувати!</item>
+    </string-array>
+</resources>

@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="series_1_versions">
+        <item>E87 (2004-2013)</item>
+        <item>F20 (2011-)</item>
+    </string-array>
+    
+    <string-array name="series_3_versions">
+        <item>E36 (1990-1999)</item>
+        <item>E46 (1998-2007)</item>
+        <item>E90 (2005-2012)</item>
+        <item>F30 (2012-)</item>
+    </string-array>
+    
+    <string-array name="series_4_versions">
+        <item>F32 (2013-)</item>
+    </string-array>
+
+    <string-array name="series_5_versions">
+        <item>E34 (1988-1996)</item>
+        <item>E39 (1996-2003)</item>
+        <item>E60 (2003-2010)</item>
+        <item>F10 (2009-)</item>
+    </string-array>
+
+    <string-array name="series_6_versions">
+        <item>E63 (2002-2010)</item>
+        <item>F12 (2011-)</item>
+    </string-array>
+
+    <string-array name="series_7_versions">
+        <item>E38 (1994-2001)</item>
+        <item>E65 (2001-2008)</item>
+        <item>F01 (2008-2015)</item>
+    </string-array>
+
+    <string-array name="x1_versions">
+        <item>E84 (2009-2015)</item>
+    </string-array>
+
+    <string-array name="x3_versions">
+        <item>E83 (2003-2010)</item>
+        <item>F25 (2010-)</item>
+    </string-array>
+
+    <string-array name="x4_versions">
+        <item>F26 (2014-)</item>
+    </string-array>
+
+    <string-array name="x5_versions">
+        <item>E53 (1999-2006)</item>
+        <item>E70 (2006-2013)</item>
+        <item>F15 (2013-)</item>
+    </string-array>
+
+    <string-array name="x6_versions">
+        <item>E71 (2008-2014)</item>
+    </string-array>
+</resources>

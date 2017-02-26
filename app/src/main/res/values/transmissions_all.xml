@@ -1,0 +1,493 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="transmission_01m">
+        <item>Teboil Fluid S</item>
+        <item>7 л.</item>
+        <item>Febi 14256 (фільтр)\nMeyle \n100 321 0001\n(прокладка)</item>
+        <item>Обов\'язково переглянути форму пiддону</item>
+    </string-array>
+
+    <string-array name="transmission_01n">
+        <item>Teboil Fluid S</item>
+        <item>7 л.</item>
+        <item>Febi 14256 (фільтр)\nMeyle \n100 321 0003\n(прокладка)</item>
+        <item>Обов\'язково переглянути форму пiддону</item>
+    </string-array>
+
+    <string-array name="transmission_01p">
+        <item>Teboil Fluid S</item>
+        <item>7 л.</item>
+        <item>Febi 14256 (фільтр)\nMeyle \n100 321 0006\n(прокладка)</item>
+        <item>Обов\'язково переглянути форму пiддону</item>
+    </string-array>
+
+    <string-array name="transmission_01l">
+        <item>Teboil Fluid S</item>
+        <item>9 л.</item>
+        <item>SCT SG1052 (до 99р.)\nSCT SG1039 (99-)</item>
+        <item>Обов\'язково переглянути форму пiддону</item>
+    </string-array>
+
+    <string-array name="transmission_01j">
+        <item>Comma AQCVT\nCastrol CVT</item>
+        <item>7,7 л.</item>
+        <item>не міняється</item>
+        <item>для повної заміни достатньо 8 л.</item>
+    </string-array>
+
+    <string-array name="transmission_0aw">
+        <item>Comma AQCVT\nCastrol CVT</item>
+        <item>8 л.</item>
+        <item>не міняється</item>
+        <item>для повної заміни достатньо 8 л.</item>
+    </string-array>
+
+    <string-array name="transmission_02e">
+        <item>Liqui Moly 8100\n(Doppelkupplungsgetriebe-öl)\nMotul DCTF</item>
+        <item>5 л.</item>
+        <item>Febi 44176</item>
+        <item>Увага! Є конструктивні недоліки. Якщо коробка працює з ривками - це НЕ масло</item>
+    </string-array>
+
+    <string-array name="transmission_dq200">
+        <item>спец. продукт</item>
+        <item>н/д</item>
+        <item>н/д</item>
+        <item>Не обслуговувати!\n(багато конструктивних недоліків)</item>
+    </string-array>
+
+    <string-array name="transmission_dq500">
+        <item>спец. продукт</item>
+        <item>н/д</item>
+        <item>н/д</item>
+        <item>Не обслуговувати!\n(багато конструктивних недоліків)</item>
+    </string-array>
+
+
+    <string-array name="transmission_0b5">
+        <item>спец. продукт</item>
+        <item>н/д</item>
+        <item>н/д</item>
+        <item>Не обслуговувати!\n(багато конструктивних недоліків)</item>
+    </string-array>
+
+    <string-array name="transmission_0c8">
+        <item>Top Tec 1800</item>
+        <item>9 л.</item>
+        <item>Meyle \n100 137 0010</item>
+        <item> </item>
+    </string-array>
+
+    <string-array name="transmission_09a">
+        <item>Top Tec 1200\nTeboil Fluid S</item>
+        <item>7 л.</item>
+        <item>не міняється</item>
+        <item>Тільки часткова заміна</item>
+    </string-array>
+
+    <string-array name="transmission_09e">
+        <item>Top Tec 1800</item>
+        <item>9 л.</item>
+        <item>09E 325 429 (фільтр)\n09E 321 371 \n(24 отв.)\n09E 321 371A \n(13 отв.)</item>
+        <item>Перед замовленням переглянути кількість отворів на піддоні КПП</item>
+    </string-array>
+
+    <string-array name="transmission_09m">
+        <item>Top Tec 1200</item>
+        <item>7 л.</item>
+        <item>Vaico V10-2224</item>
+        <item>Фільтр - металева сітка (до 200 тис. км. можна не міняти)</item>
+    </string-array>
+
+    <string-array name="transmission_09k">
+        <item>Top Tec 1200</item>
+        <item>7 л.</item>
+        <item>Meyle 100 137 0007</item>
+        <item>Фільтр - металева сітка (до 200 тис. км. можна не міняти)</item>
+    </string-array>
+
+    <string-array name="transmission_09g">
+        <item>Top Tec 1200</item>
+        <item>7 л.</item>
+        <item>Meyle 100 137 0001</item>
+        <item>Фільтр - металева сітка (до 200 тис. км. можна не міняти)</item>
+    </string-array>
+
+    <string-array name="transmission_09l">
+        <item>Top Tec 1800</item>
+        <item>9 л.</item>
+        <item>09L 325 429 (фільтр)\n09L 321 371 \n(23 отв.)\n09L 321 371A \n(13 отв.)</item>
+        <item>Перед замовленням переглянути кількість отворів на піддоні КПП</item>
+    </string-array>
+
+    <string-array name="transmission_09d">
+        <item>Top Tec 1200</item>
+        <item>9 л.</item>
+        <item>Vaico V10-0435</item>
+        <item>в Тебойлі нема допуску (хоча нічого не буде, якщо залити)</item>
+    </string-array>
+
+    <string-array name="transmission_4hp20">
+        <item>LT 71141\nTop Tec 1200</item>
+        <item>8,1 л.</item>
+        <item>не міняється</item>
+        <item></item>
+    </string-array>
+    
+    <string-array name="transmission_4hp24">
+        <item>LT 71141\nTop Tec 1200\nTeboil Fluid S</item>
+        <item>7,9 л.</item>
+        <item>SCT SG1049</item>
+        <item>Обов\'язково переглянути форму пiддону</item>
+    </string-array>
+
+    <string-array name="transmission_4hp18">
+        <item>LT 71141\nTop Tec 1200\nTeboil Fluid S</item>
+        <item>7,9 л.</item>
+        <item>SCT SG1002</item>
+        <item>Обов\'язково переглянути форму пiддону</item>
+    </string-array>
+
+    <string-array name="transmission_5hp18">
+        <item>Teboil Fluid S</item>
+        <item>9 л.</item>
+        <item>SCT SG1010</item>
+        <item> </item>
+    </string-array>
+
+    <string-array name="transmission_5hp19">
+        <item>LT 71141\nTop Tec 1200\nTeboil Fluid S</item>
+        <item>9 л.</item>
+        <item>SCT SG1014</item>
+        <item> </item>
+    </string-array>
+
+    <string-array name="transmission_5hp24">
+        <item>LT 71141\nTop Tec 1200\nTeboil Fluid S</item>
+        <item>9,7 л.</item>
+        <item>Meyle \n314 137 0001</item>
+        <item> </item>
+    </string-array>
+
+    <string-array name="transmission_5hp30">
+        <item>LT 71141\nTop Tec 1200\nTeboil Fluid S</item>
+        <item>13 л.</item>
+        <item>SCT SG1051</item>
+        <item> </item>
+    </string-array>
+
+    <string-array name="transmission_6hp19">
+        <item>Top Tec 1800</item>
+        <item>9 л.</item>
+        <item>Vaico V20-0580</item>
+        <item>Фільтр впаяний в піддон КПП</item>
+    </string-array>
+
+    <string-array name="transmission_6hp26">
+        <item>Top Tec 1800</item>
+        <item>9 л.</item>
+        <item>Vaico V20-0574</item>
+        <item>Якщо піддон металевий - фільтр і прокладка без піддону (V20-0048)</item>
+    </string-array>
+
+    <string-array name="transmission_8hp45">
+        <item>Top Tec 1800</item>
+        <item>8,5 л.</item>
+        <item>Meyle \n300 325 0002</item>
+        <item>Фільтр впаяний в піддон КПП</item>
+    </string-array>
+
+    <string-array name="transmission_8hp55">
+        <item>Top Tec 1800</item>
+        <item>9 л.</item>
+        <item>Meyle \n100 137 0006</item>
+        <item> </item>
+    </string-array>
+
+    <string-array name="transmission_8hp70">
+        <item>Top Tec 1800</item>
+        <item>8,5 л.</item>
+        <item>Meyle \n300 325 0002</item>
+        <item>Фільтр впаяний в піддон КПП</item>
+    </string-array>
+
+    <string-array name="transmission_4l30e">
+        <item>Top Tec 1200\nTeboil Fluid S\n Zic Atf Multi</item>
+        <item>8,8 л.</item>
+        <item>SCT SG1016</item>
+        <item> </item>
+    </string-array>
+
+    <string-array name="transmission_4l40e">
+        <item>Top Tec 1200\nTeboil Fluid S\n Zic Atf Multi</item>
+        <item>9 л.</item>
+        <item>Febi 30849</item>
+        <item> </item>
+    </string-array>
+
+    <string-array name="transmission_5l40e">
+        <item>Top Tec 1200\nTeboil Fluid S\n Zic Atf Multi</item>
+        <item>9 л.</item>
+        <item>Febi 30849</item>
+        <item>для BMW X5\nFebi 27061</item>
+    </string-array>
+
+    <string-array name="transmission_722_3">
+        <item>Teboil Fluid S</item>
+        <item>6,6 л.</item>
+        <item>SCT SG1000</item>
+        <item>Обов\'язково переглянути форму пiддону</item>
+    </string-array>
+
+    <string-array name="transmission_722_4">
+        <item>Teboil Fluid S</item>
+        <item>7,1 л.</item>
+        <item>SCT SG1004</item>
+        <item>Обов\'язково переглянути форму пiддону</item>
+    </string-array>
+
+    <string-array name="transmission_722_5">
+        <item>Teboil Fluid S</item>
+        <item>8 л.</item>
+        <item>SCT SG1005</item>
+        <item>Обов\'язково переглянути форму пiддону</item>
+    </string-array>
+
+    <string-array name="transmission_722_6">
+        <item>MB 236.14\nTitan ATF 4134</item>
+        <item>7,8 л.</item>
+        <item>Mann H182Kit</item>
+        <item> </item>
+    </string-array>
+
+    <string-array name="transmission_722_7">
+        <item>Teboil Fluid S</item>
+        <item>6,3 л.</item>
+        <item>Meyle \n014 037 0003</item>
+        <item> </item>
+    </string-array>
+
+    <string-array name="transmission_722_8">
+        <item>Castrol CVT\nComma AQCVT</item>
+        <item>6,5 л.</item>
+        <item>до 10.05.2007 - Meyle \n014 037 0004/S\nз 10.05.2007 - Vaico V30-1452</item>
+        <item>2 варіанти прокладок (переглянути на авто)</item>
+    </string-array>
+
+    <string-array name="transmission_722_9">
+        <item>MB 236.14\nTitan ATF 4134</item>
+        <item>9,2 л.</item>
+        <item>Meyle \n014 037 0000</item>
+        <item>з 2012 року масло тільки MB 236.15!!</item>
+    </string-array>
+
+    <string-array name="transmission_jf404e">
+        <item>Teboil Fluid S</item>
+        <item>5,7 л.</item>s
+        <item>Febi 26055 (фільтр)\nПіддон на герметику</item>
+        <item>Обов\'язково переглянути форму пiддону</item>
+    </string-array>
+
+    <string-array name="transmission_6hp19a">
+        <item>Teboil Fluid S</item>
+        <item>9 л.</item>
+        <item>Vaico V10-2218</item>
+        <item></item>
+    </string-array>
+
+    <string-array name="transmission_f4a42">
+        <item>Top Tec 1200\nTeboil Fluid S\n Zic Atf Multi</item>
+        <item>7 л.</item>
+        <item>MD 752072 (фільтр)</item>
+        <item>Переглянути чи є встановлений фільтр АКПП зверху коробки</item>
+    </string-array>
+
+    <string-array name="transmission_v4a51">
+        <item>Top Tec 1200\nTeboil Fluid S\n Zic Atf Multi</item>
+        <item>7,7 л.</item>
+        <item>MR528836 (фільтр)\nПіддон на герметику</item>
+        <item>Підходить фільтр MR357710</item>
+    </string-array>
+
+    <string-array name="transmission_v5a51">
+        <item>Top Tec 1200\nTeboil Fluid S\n Zic Atf Multi</item>
+        <item>7,7 л.</item>
+        <item>MR528836 (фільтр)\nПіддон на герметику</item>
+        <item>Підходить фільтр MR357710</item>
+    </string-array>
+
+    <string-array name="transmission_aw03_71">
+        <item>Top Tec 1200\nTeboil Fluid S\n Zic Atf Multi</item>
+        <item>7,2 л.</item>
+        <item>JS Asakashi JT278K </item>
+        <item></item>
+    </string-array>
+
+    <string-array name="transmission_aw30_43">
+        <item>Top Tec 1200\nTeboil Fluid S\n Zic Atf Multi</item>
+        <item>9.8 л.</item>
+        <item>8 варіантів (не міняти)</item>
+        <item>Фільтр металева сітка (можна не міняти)</item>
+    </string-array>
+
+    <string-array name="transmission_f1c1">
+        <item>Comma AQCVT\nCastrol CVT</item>
+        <item>7,1 л.</item>
+        <item>Не міняється (без піддону)</item>
+        <item></item>
+    </string-array>
+
+    <string-array name="transmission_jf613e">
+        <item>Top Tec 1200\nTeboil Fluid S\n Zic Atf Multi</item>
+        <item>8,2 л.</item>
+        <item>Не міняється (без піддону)</item>
+        <item></item>
+    </string-array>
+
+    <string-array name="transmission_jf011e">
+        <item>Comma AQCVT\nCastrol CVT</item>
+        <item>7,1 л.</item>
+        <item>2824A007 (сітка, в піддоні) \n2824A006 (фільтр зовнішній)\n2705A015 (прокладка)</item>
+        <item>Можна міняти тільки зовнішній фільтр</item>
+    </string-array>
+
+    <string-array name="transmission_a140e">
+        <item>Toyota T4\nTop Tec 1200\nTeboil Fluid S\n Zic Atf Multi</item>
+        <item>5,6 л.</item>
+        <item>SCT SG1026</item>
+        <item>Фільтр металева сітка (можна не міняти)</item>
+    </string-array>
+
+    <string-array name="transmission_a240e">
+        <item>Toyota T4\nTop Tec 1200\nTeboil Fluid S\n Zic Atf Multi</item>
+        <item>8 л.</item>
+        <item>35330-12020 (фільтр) \n35168-12020 (прокладка до 2001)\n35168-12080 (прокладка з 2001)</item>
+        <item>Фільтр металева сітка (можна не міняти)</item>
+    </string-array>
+
+    <string-array name="transmission_a245e">
+        <item>Toyota T4\nTop Tec 1200\nTeboil Fluid S\n Zic Atf Multi</item>
+        <item>7,6 л.</item>
+        <item>35330-12030 (фільтр) \n35168-12030 (прокладка)</item>
+        <item>Фільтр металева сітка (можна не міняти)</item>
+    </string-array>
+
+    <string-array name="transmission_a246e">
+        <item>Toyota T4\nTop Tec 1200\nTeboil Fluid S\n Zic Atf Multi</item>
+        <item>7,6 л.</item>
+        <item>35330-12040 (фільтр) \n35168-12060 (прокладка)</item>
+        <item>Фільтр металева сітка (можна не міняти)</item>
+    </string-array>
+
+    <string-array name="transmission_a343f">
+        <item>Toyota T4\nTop Tec 1200\nTeboil Fluid S\n Zic Atf Multi</item>
+        <item>11,7 л.</item>
+        <item>35330-60030 (фільтр) \nПіддон на герметику</item>
+        <item>Фільтр металева сітка (можна не міняти)</item>
+    </string-array>
+
+    <string-array name="transmission_a442f">
+        <item>Toyota T4\nTop Tec 1200\nTeboil Fluid S\n Zic Atf Multi</item>
+        <item>15 л.</item>
+        <item>35330-60040 (фільтр) \nПіддон на герметику</item>
+        <item>Фільтр металева сітка (можна не міняти)</item>
+    </string-array>
+
+    <string-array name="transmission_a541e">
+        <item>Toyota T4\nTop Tec 1200\nTeboil Fluid S\n Zic Atf Multi</item>
+        <item>6,8 л.</item>
+        <item>SCT SG1020</item>
+        <item>Фільтр металева сітка (можна не міняти)</item>
+    </string-array>
+
+    <string-array name="transmission_a750f">
+        <item>Toyota WS\nTop Tec 1800</item>
+        <item>10,7 л.</item>
+        <item>JS Asakashi JT437k</item>
+        <item>Якщо є щуп АКПП - масло Toyota T-IV / Teboil Fluid S</item>
+    </string-array>
+
+    <string-array name="transmission_ab60f">
+        <item>Toyota WS\nTop Tec 1800</item>
+        <item>12,1 л.</item>
+        <item>35330-60060 (фільтр)\n35168-34020 (прокладка)</item>
+        <item></item>
+    </string-array>
+
+    <string-array name="transmission_k111">
+        <item>Toyota CVT\nCastrol Transmax CVT\nComma AQCVT</item>
+        <item>8,7 л.</item>
+        <item>35330-0W040 (фільтр)\n35168-20010 (прокладка)</item>
+        <item></item>
+    </string-array>
+
+    <string-array name="transmission_k311">
+        <item>Toyota CVT\nCastrol Transmax CVT\nComma AQCVT</item>
+        <item>8,7 л.</item>
+        <item>35330-0W050 (фільтр)\n35168-12091 (прокладка)</item>
+        <item></item>
+    </string-array>
+
+    <string-array name="transmission_u140e">
+        <item>Toyota T4\nTop Tec 1200\nTeboil Fluid S\n Zic Atf Multi</item>
+        <item>6,5 л.</item>
+        <item>SCT SG1058</item>
+        <item></item>
+    </string-array>
+
+    <string-array name="transmission_u151e">
+        <item>Toyota T4\nTop Tec 1200\nTeboil Fluid S\n Zic Atf Multi</item>
+        <item>9 л.</item>
+        <item>WIX 58010</item>
+        <item></item>
+    </string-array>
+
+    <string-array name="transmission_u250e">
+        <item>Toyota T4\nTop Tec 1200\nTeboil Fluid S\n Zic Atf Multi</item>
+        <item>9 л.</item>
+        <item>WIX 58010</item>
+        <item></item>
+    </string-array>
+
+    <string-array name="transmission_u241e">
+        <item>Toyota T4\nTop Tec 1200\nTeboil Fluid S\n Zic Atf Multi</item>
+        <item>6,5 л.</item>
+        <item>SCT SG1058</item>
+        <item></item>
+    </string-array>
+
+    <string-array name="transmission_u341e">
+        <item>Toyota T4\nTop Tec 1200\nTeboil Fluid S\n Zic Atf Multi</item>
+        <item>7,6 л.</item>
+        <item>SCT SG1060</item>
+        <item></item>
+    </string-array>
+
+    <string-array name="transmission_u441e">
+        <item>Toyota T4\nTop Tec 1200\nTeboil Fluid S\n Zic Atf Multi</item>
+        <item>5,6 л.</item>
+        <item>35330-52010 (фільтр)\n35168-52010 (прокладка)</item>
+        <item></item>
+    </string-array>
+
+    <string-array name="transmission_u660e">
+        <item>Toyota WS\nTop Tec 1800</item>
+        <item>6,6 л.</item>
+        <item>SCT SG1068</item>
+        <item></item>
+    </string-array>
+
+    <string-array name="transmission_u760e">
+        <item>Toyota WS\nTop Tec 1800</item>
+        <item>6,6 л.</item>
+        <item>35330-73010 (фільтр)\n35168-73010 (прокладка)</item>
+        <item></item>
+    </string-array>
+
+    <string-array name="transmission_sequental">
+        <item>75w90</item>
+        <item>2 л.</item>
+        <item>відсутній</item>
+        <item>Коробка = механічна</item>
+    </string-array>
+</resources>
