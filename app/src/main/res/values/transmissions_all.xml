@@ -194,7 +194,7 @@
         <item>Top Tec 1800</item>
         <item>8,5 л.</item>
         <item>Meyle \n300 325 0002</item>
-        <item>Фільтр впаяний в піддон КПП</item>
+        <item>Фільтр впаяний в піддон КПП\nПереглянути можливість повної заміни</item>
     </string-array>
 
     <string-array name="transmission_8hp55">
@@ -208,7 +208,7 @@
         <item>Top Tec 1800</item>
         <item>8,5 л.</item>
         <item>Meyle \n300 325 0002</item>
-        <item>Фільтр впаяний в піддон КПП</item>
+        <item>Фільтр впаяний в піддон КПП\nПереглянути можливість повної заміни</item>
     </string-array>
 
     <string-array name="transmission_4l30e">
@@ -439,14 +439,14 @@
         <item>Toyota T4\nTop Tec 1200\nTeboil Fluid S\n Zic Atf Multi</item>
         <item>9 л.</item>
         <item>WIX 58010</item>
-        <item></item>
+        <item>З 2005 року - масло Toyota WS (Top Tec 1800)</item>
     </string-array>
 
     <string-array name="transmission_u250e">
         <item>Toyota T4\nTop Tec 1200\nTeboil Fluid S\n Zic Atf Multi</item>
         <item>9 л.</item>
         <item>WIX 58010</item>
-        <item></item>
+        <item>З 2005 року - масло Toyota WS (Top Tec 1800)</item>
     </string-array>
 
     <string-array name="transmission_u241e">
