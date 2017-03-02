@@ -21,6 +21,7 @@ public class MainActivity extends AppCompatActivity {
     LinearLayout llPrimary1, llPrimary2, llPrimary3, llPrimary4, llCars, llModels, llVersions;
     ListView lvCars, lvModels, lvVersions;
     String[] cars_list, models_list, versions_list;
+    String model_selected;
     final Context firstActivity = this;
     LinearLayout.LayoutParams params_show = new LinearLayout.LayoutParams(ViewGroup.LayoutParams.MATCH_PARENT, ViewGroup.LayoutParams.MATCH_PARENT);
     LinearLayout.LayoutParams params_hide = new LinearLayout.LayoutParams(ViewGroup.LayoutParams.MATCH_PARENT, 1);
@@ -103,7 +104,7 @@ public class MainActivity extends AppCompatActivity {
         lvModels.setOnItemClickListener(new AdapterView.OnItemClickListener() {
             @Override
             public void onItemClick(AdapterView<?> adapterView, View view, int i, long l) {
-                String model_selected = lvModels.getItemAtPosition(i).toString();
+                model_selected = lvModels.getItemAtPosition(i).toString();
                 // зміна тексту "виберіть марку" на "назва марки"
                 tv2.setText(model_selected);
                 // ховаю ListView з моделями
