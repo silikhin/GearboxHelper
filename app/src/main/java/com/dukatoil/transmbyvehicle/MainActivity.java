@@ -61,6 +61,7 @@ public class MainActivity extends AppCompatActivity {
             @Override
             public void onClick(View view) {
                 Intent intent = new Intent(firstActivity, ActivityVariants.class);
+//                TODO: StringBuilder version = model_selected + "_" + text from tv3
                 intent.putExtra("version", tv3.getText().toString().split(" ")[0]);
                 startActivity(intent);
             }
