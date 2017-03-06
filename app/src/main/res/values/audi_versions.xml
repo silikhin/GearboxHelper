@@ -5,9 +5,9 @@
     </string-array>
 
     <string-array name="a3_versions">
-        <item>A3_8L (1996-2003)</item>
-        <item>A3_8P (2003-2012)</item>
-        <item>A3_8V (2012-)</item>
+        <item>8L (1996-2003)</item>
+        <item>8P (2003-2012)</item>
+        <item>8V (2012-)</item>
     </string-array>
 
     <string-array name="a4_versions">
@@ -51,8 +51,8 @@
     </string-array>
 
     <string-array name="tt_versions">
-        <item>TT_8N (1998-2006)</item>
-        <item>TT_8J (2006-2013)</item>
-        <item>TT_8S (2014-)</item>
+        <item>8N (1998-2006)</item>
+        <item>8J (2006-2013)</item>
+        <item>8S (2014-)</item>
     </string-array>
 </resources>

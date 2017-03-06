@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string-array name="a1">
+    <string-array name="a1_a1">
         <item>DQ200 (S-tronic)(DSG 7ст.)\n НЕ обслуговувати!</item>
     </string-array>
 
@@ -18,25 +18,25 @@
         <item>DQ500 (S-tronic)(DSG 7ст.)\n НЕ обслуговувати!</item>
     </string-array>
 
-    <string-array name="b5">
+    <string-array name="a4_b5">
         <item>01M VAG (4ст АКПП)\n(піддон 4 болти)</item>
         <item>01N VAG (4ст АКПП)\n(піддон 5 болтів)</item>
         <item>5HP19 (01V VAG)\n(5ст АКПП)</item>
     </string-array>
 
-    <string-array name="b6">
+    <string-array name="a4_b6">
         <item>01J Multitronic (CVT)</item>
         <item>5HP19 (01V VAG)\n(5ст. АКПП)</item>
     </string-array>
 
-    <string-array name="b7">
+    <string-array name="a4_b7">
         <item>01J Multitronic (CVT)</item>
         <item>5HP19 (01V VAG)\n(5ст. АКПП)</item>
         <item>09E (6ст. АКПП)</item>
         <item>09L (6ст. АКПП)</item>
     </string-array>
 
-    <string-array name="b8">
+    <string-array name="a4_b8">
         <item>0AW (CVT)</item>
         <item>09E (6ст. АКПП)</item>
         <item>09L (6ст. АКПП)</item>
@@ -44,7 +44,7 @@
         <item>8HP55 ZF (0BK VAG)\n(8ст. АКПП)</item>
     </string-array>
 
-    <string-array name="a5">
+    <string-array name="a5_a5">
         <item>01J Multitronic (CVT)</item>
         <item>0AW (CVT)</item>
         <item>09E (6ст. АКПП)</item>
@@ -52,67 +52,67 @@
         <item>8HP55 ZF (0BK VAG)\n(8ст. АКПП)</item>
     </string-array>
 
-    <string-array name="c4">
+    <string-array name="a6_c4">
         <item>4HP18 ZF (4ст. АКПП)</item>
         <item>01N VAG (4ст АКПП)\n(піддон 5 болтів)</item>
     </string-array>
 
-    <string-array name="c5">
+    <string-array name="a6_c5">
         <item>01N VAG (4ст АКПП)\n(піддон 5 болтів)</item>
         <item>01J Multitronic (CVT)</item>
         <item>5HP19 (01V VAG)\n(5ст. АКПП)</item>
     </string-array>
 
-    <string-array name="c6">
+    <string-array name="a6_c6">
         <item>01J Multitronic (CVT)</item>
         <item>09E (6ст. АКПП)</item>
         <item>09L (6ст. АКПП)</item>
     </string-array>
 
-    <string-array name="c7">
+    <string-array name="a6_c7">
         <item>01J Multitronic (CVT)</item>
         <item>0AW (CVT)</item>
         <item>0B5 (DL501) (S-tronic)\nНЕ обслуговувати!</item>
         <item>8HP55 ZF (0BK VAG)\n(8ст. АКПП)</item>
     </string-array>
 
-    <string-array name="a7">
+    <string-array name="a7_a7">
         <item>01J Multitronic (CVT)</item>
         <item>0AW (CVT)</item>
         <item>0B5 (DL501) (S-tronic)\nНЕ обслуговувати!</item>
         <item>8HP55 ZF (0BK VAG)\n(8ст. АКПП)</item>
     </string-array>
     
-    <string-array name="d2">
+    <string-array name="a8_d2">
         <item>4HP18 ZF (4ст. АКПП)</item>
         <item>4HP24 (4ст. АКПП)</item>
         <item>5HP19 (01V VAG)\n(5ст. АКПП)</item>
         <item>01L VAG (5ст. АКПП)</item>
     </string-array>
 
-    <string-array name="d3">
+    <string-array name="a8_d3">
         <item>01J Multitronic (CVT)</item>
         <item>09E (6ст. АКПП)</item>
         <item>09L (6ст. АКПП)</item>
     </string-array>
 
-    <string-array name="d4">
+    <string-array name="a8_d4">
         <item>8HP55 ZF (0BK VAG)\n(8ст. АКПП)</item>
     </string-array>
 
-    <string-array name="q3">
+    <string-array name="q3_q3">
         <item>02E (DQ250) (DSG 6ст.)</item>
         <item>09M (6ст. АКПП)</item>
         <item>DQ500 (S-tronic)(DSG 7ст.)\n НЕ обслуговувати!</item>
     </string-array>
 
-    <string-array name="q5">
+    <string-array name="q5_q5">
         <item>09E (6ст. АКПП)</item>
         <item>0B5 (DL501) (S-tronic)\nНЕ обслуговувати!</item>
         <item>8HP55 ZF (0BK VAG)\n(8ст. АКПП)</item>
     </string-array>
 
-    <string-array name="q7">
+    <string-array name="q7_q7">
         <item>09D (6ст АКПП)</item>
         <item>6HP19A (6ст АКПП)</item>
         <item>0C8 (8ст АКПП)</item>
