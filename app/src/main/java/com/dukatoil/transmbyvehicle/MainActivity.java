@@ -62,7 +62,7 @@ public class MainActivity extends AppCompatActivity {
             public void onClick(View view) {
                 Intent intent = new Intent(firstActivity, ActivityVariants.class);
                 StringBuilder extraVersion = new StringBuilder();
-                extraVersion.append(model_selected);
+                extraVersion.append(model_selected.replaceAll("[ -]", "_"));
                 extraVersion.append("_");
                 extraVersion.append(tv3.getText().toString().split(" ")[0]);
                 intent.putExtra("version", extraVersion.toString());
