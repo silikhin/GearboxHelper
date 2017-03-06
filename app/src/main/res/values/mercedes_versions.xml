@@ -74,8 +74,8 @@
     </string-array>
     
     <string-array name="sprinter_versions">
-        <item>Sprinter_I (1995-2005)</item>
-        <item>Sprinter_II (2006-)</item>
+        <item>I (1995-2005)</item>
+        <item>II (2006-)</item>
     </string-array>
     
     <string-array name="vito_versions">

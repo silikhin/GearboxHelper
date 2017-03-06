@@ -1,136 +1,136 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string-array name="w168">
+    <string-array name="a_class_w168">
         <item>722.7 (5ст. АКПП)</item>
     </string-array>
     
-    <string-array name="w169">
+    <string-array name="a_class_w169">
         <item>722.8 (CVT)</item>
     </string-array>
     
-    <string-array name="w245">
+    <string-array name="b_class_w245">
         <item>722.8 (CVT)</item>
     </string-array>
     
-    <string-array name="w202">
+    <string-array name="c_class_w202">
         <item>722.4 (4ст. АКПП)</item>
         <item>722.6 (5ст. АКПП)</item>
     </string-array>
 
-    <string-array name="w203">
+    <string-array name="c_class_w203">
         <item>722.6 (5ст. АКПП)</item>
     </string-array>
 
-    <string-array name="w204">
+    <string-array name="c_class_w204">
         <item>722.9 (7ст. АКПП)</item>
     </string-array>
     
-    <string-array name="w205">
+    <string-array name="c_class_w205">
         <item>722.9 (7ст. АКПП)</item>
     </string-array>
     
-    <string-array name="w208">
+    <string-array name="clk_w208">
         <item>722.6 (5ст. АКПП)</item>
     </string-array>
     
-    <string-array name="w209">
+    <string-array name="clk_w209">
         <item>722.9 (7ст. АКПП)</item>
     </string-array>
     
-    <string-array name="c219">
+    <string-array name="cls_c219">
         <item>722.9 (7ст. АКПП)</item>
     </string-array>
     
-    <string-array name="c218">
+    <string-array name="cls_c218">
         <item>722.9 (7ст. АКПП)</item>
     </string-array>
 
-    <string-array name="w210">
+    <string-array name="e_class_w210">
         <item>722.4 (4ст. АКПП)</item>
         <item>722.6 (5ст. АКПП)</item>
     </string-array>
 
-    <string-array name="w211">
+    <string-array name="e_class_w211">
         <item>722.6 (5ст. АКПП)</item>
         <item>722.9 (7ст. АКПП)</item>
     </string-array>
 
-    <string-array name="w212">
+    <string-array name="e_class_w212">
         <item>722.9 (7ст. АКПП)</item>
     </string-array>
     
-    <string-array name="w463">
+    <string-array name="g_class_w463">
         <item>722.6 (5ст. АКПП)</item>
         <item>722.9 (7ст. АКПП)</item>
     </string-array>
     
-    <string-array name="x164">
+    <string-array name="gl_class_x164">
         <item>722.9 (7ст. АКПП)</item>
     </string-array>
     
-    <string-array name="x166">
+    <string-array name="gl_class_x166">
         <item>722.9 (7ст. АКПП)</item>
     </string-array>
     
-    <string-array name="x204">
+    <string-array name="glk_class_x204">
         <item>722.9 (7ст. АКПП)</item>
     </string-array>
     
-    <string-array name="w163">
+    <string-array name="ml_class_w163">
         <item>722.6 (5ст. АКПП)</item>
     </string-array>
     
-    <string-array name="w164">
+    <string-array name="ml_class_w164">
         <item>722.9 (7ст. АКПП)</item>
     </string-array>
     
-    <string-array name="w166">
+    <string-array name="ml_class_w166">
         <item>722.9 (7ст. АКПП)</item>
     </string-array>
 
-    <string-array name="w251">
+    <string-array name="r_class_w251">
         <item>722.9 (7ст. АКПП)</item>
     </string-array>
 
-    <string-array name="w140">
+    <string-array name="s_class_w140">
         <item>722.3 (4ст. АКПП)</item>
         <item>722.5 (4ст. АКПП)</item>
         <item>722.6 (5ст. АКПП)</item>
     </string-array>
 
-    <string-array name="w220">
+    <string-array name="s_class_w220">
         <item>722.6 (5ст. АКПП)</item>
     </string-array>
 
-    <string-array name="w221">
+    <string-array name="s_class_w221">
         <item>722.9 (7ст. АКПП)</item>
     </string-array>
     
-    <string-array name="r129">
+    <string-array name="sl_class_r129">
         <item>722.3 (4ст. АКПП)</item>
         <item>722.4 (4ст. АКПП)</item>
         <item>722.5 (4ст. АКПП)</item>
         <item>722.6 (5ст. АКПП)</item>
     </string-array>
     
-    <string-array name="r230">
+    <string-array name="sl_class_r230">
         <item>722.6 (5ст. АКПП)</item>
         <item>722.9 (7ст. АКПП)</item>
     </string-array>
     
-    <string-array name="r231">
+    <string-array name="sl_class_r231">
         <item>722.9 (7ст. АКПП)</item>
     </string-array>
     
-    <string-array name="r170">
+    <string-array name="slk_class_r170">
         <item>722.6 (5ст. АКПП)</item>
     </string-array>
     
-    <string-array name="r171">
+    <string-array name="slk_class_r171">
         <item>722.6 (5ст. АКПП)</item>
     </string-array>
     
-    <string-array name="r172">
+    <string-array name="slk_class_r172">
         <item>722.9 (7ст. АКПП)</item>
     </string-array>
     
@@ -144,11 +144,11 @@
         <item>722.9 (7ст. АКПП)</item>
     </string-array>
     
-    <string-array name="w638">
+    <string-array name="vito_w638">
         <item>4HP20 ZF (4ст. АКПП)</item>
     </string-array>
     
-    <string-array name="w639">
+    <string-array name="vito_w639">
         <item>722.6 (5ст. АКПП)</item>
         <item>722.9 (7ст. АКПП)</item>
     </string-array>

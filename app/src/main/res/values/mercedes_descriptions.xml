@@ -1,22 +1,22 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="w202_descr">1. За допомогою VIN коду на сайті elcats.ru
+    <string name="c_class_w202_descr">1. За допомогою VIN коду на сайті elcats.ru
         \n2. Визначити за формою піддону</string>
-    <string name="w210_descr">1. За допомогою VIN коду на сайті elcats.ru
+    <string name="e_class_w210_descr">1. За допомогою VIN коду на сайті elcats.ru
         \n2. Визначити за формою піддону</string>
-    <string name="w211_descr">1. За допомогою VIN коду на сайті elcats.ru
+    <string name="e_class_w211_descr">1. За допомогою VIN коду на сайті elcats.ru
         \n2. Якщо є отвір під щуп АКПП під капотом - коробка 722.6
         \n3. Якщо отвір відсутній - коробка 722.9
         \n4. Можна визначити за формою піддону</string>
-    <string name="w463_descr">1. За допомогою VIN коду на сайті elcats.ru
+    <string name="g_class_w463_descr">1. За допомогою VIN коду на сайті elcats.ru
         \n2. Якщо є отвір під щуп АКПП під капотом - коробка 722.6
         \n3. Якщо отвір відсутній - коробка 722.9
         \n4. Можна визначити за формою піддону</string>
-    <string name="w140_descr">1. За допомогою VIN коду на сайті elcats.ru
+    <string name="s_class_w140_descr">1. За допомогою VIN коду на сайті elcats.ru
         \n2. Визначити за формою піддону</string>
-    <string name="r129_descr">1. За допомогою VIN коду на сайті elcats.ru
+    <string name="sl_class_r129_descr">1. За допомогою VIN коду на сайті elcats.ru
         \n2. Визначити за формою піддону</string>
-    <string name="r230_descr">1. За допомогою VIN коду на сайті elcats.ru
+    <string name="sl_class_r230_descr">1. За допомогою VIN коду на сайті elcats.ru
         \n2. Якщо є отвір під щуп АКПП під капотом - коробка 722.6
         \n3. Якщо отвір відсутній - коробка 722.9
         \n4. Можна визначити за формою піддону</string>
@@ -26,7 +26,7 @@
         \n2. Якщо є отвір під щуп АКПП під капотом - коробка 722.6
         \n3. Якщо отвір відсутній - коробка 722.9
         \n4. Можна визначити за формою піддону</string>
-    <string name="w639_descr">1. За допомогою VIN коду на сайті elcats.ru
+    <string name="vito_w639_descr">1. За допомогою VIN коду на сайті elcats.ru
         \n2. Якщо є отвір під щуп АКПП під капотом - коробка 722.6
         \n3. Якщо отвір відсутній - коробка 722.9
         \n4. Можна визначити за формою піддону</string>
