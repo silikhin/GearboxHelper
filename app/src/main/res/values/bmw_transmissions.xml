@@ -1,130 +1,130 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string-array name="e87">
+    <string-array name="series_1_e87">
         <item>6HP19 ZF (6ст. АКПП)</item>
         <item>6HP26 ZF (6ст. АКПП)</item>
     </string-array>
     
-    <string-array name="f20">
+    <string-array name="series_1_f20">
         <item>8HP45 (8ст. АКПП)</item>
     </string-array>
     
-    <string-array name="e36">
+    <string-array name="series_3_e36">
         <item>4L30E GM (4ст. АКПП)</item>
         <item>4L40E GM (4ст. АКПП)</item>
         <item>5HP18 ZF (5ст. АКПП)</item>
     </string-array>
 
-    <string-array name="e46">
+    <string-array name="series_3_e46">
         <item>5L40E GM (5ст. АКПП)</item>
         <item>5HP19 ZF (5ст. АКПП)</item>
     </string-array>
 
-    <string-array name="e90">
+    <string-array name="series_3_e90">
         <item>6HP19 ZF (6ст. АКПП)</item>
         <item>6HP26 ZF (6ст. АКПП)</item>
     </string-array>
 
-    <string-array name="f30">
+    <string-array name="series_3_f30">
         <item>8HP45 (8ст. АКПП)</item>
         <item>8HP70 (8ст. АКПП)</item>
     </string-array>
     
-    <string-array name="f32">
+    <string-array name="series_4_f32">
         <item>8HP45 (8ст. АКПП)</item>
         <item>8HP70 (8ст. АКПП)</item>
     </string-array>
 
-    <string-array name="e34">
+    <string-array name="series_5_e34">
         <item>4L30E GM (4ст. АКПП)</item>
         <item>5HP18 ZF (5ст. АКПП)</item>
     </string-array>
 
-    <string-array name="e39">
+    <string-array name="series_5_e39">
         <item>5L40E GM (5ст. АКПП)</item>
         <item>5HP18 ZF (5ст. АКПП)</item>
         <item>5HP19 ZF (5ст. АКПП)</item>
         <item>5HP24 ZF (5ст. АКПП)</item>
     </string-array>
 
-    <string-array name="e60">
+    <string-array name="series_5_e60">
         <item>6HP19 ZF (6ст. АКПП)</item>
         <item>6HP26 ZF (6ст. АКПП)</item>
     </string-array>
 
-    <string-array name="f10">
+    <string-array name="series_5_f10">
         <item>8HP45 (8ст. АКПП)</item>
         <item>8HP70 (8ст. АКПП)</item>
     </string-array>
     
-    <string-array name="e63">
+    <string-array name="series_6_e63">
         <item>6HP19 ZF (6ст. АКПП)</item>
         <item>6HP26 ZF (6ст. АКПП)</item>
     </string-array>
     
-    <string-array name="f12">
+    <string-array name="series_6_f12">
         <item>8HP45 (8ст. АКПП)</item>
         <item>8HP70 (8ст. АКПП)</item>
     </string-array>
 
-    <string-array name="e38">
+    <string-array name="series_7_e38">
         <item>4L30E GM (4ст. АКПП)</item>
         <item>5HP24 ZF (5ст. АКПП)</item>
         <item>5HP30 ZF (5ст. АКПП)</item>
     </string-array>
 
-    <string-array name="e65">
+    <string-array name="series_7_e65">
         <item>6HP19 ZF (6ст. АКПП)</item>
         <item>6HP26 ZF (6ст. АКПП)</item>
     </string-array>
 
-    <string-array name="f01">
+    <string-array name="series_7_f01">
         <item>6HP19 ZF (6ст. АКПП)</item>
         <item>6HP26 ZF (6ст. АКПП)</item>
         <item>8HP45 ZF (8ст. АКПП)</item>
         <item>8HP70 ZF (8ст. АКПП)</item>
     </string-array>
 
-    <string-array name="e84">
+    <string-array name="x1_e84">
         <item>6HP19 ZF (6ст. АКПП)</item>
         <item>6HP26 ZF (6ст. АКПП)</item>
         <item>8HP45 ZF (8ст. АКПП)</item>
     </string-array>
 
-    <string-array name="e83">
+    <string-array name="x3_e83">
         <item>5L40E GM (5ст. АКПП)</item>
         <item>6HP19 ZF (6ст. АКПП)</item>
         <item>6HP26 ZF (6ст. АКПП)</item>
     </string-array>
 
-    <string-array name="f25">
+    <string-array name="x3_f25">
         <item>8HP45 ZF (8ст. АКПП)</item>
         <item>8HP70 ZF (8ст. АКПП)</item>
     </string-array>
 
-    <string-array name="f26">
+    <string-array name="x4_f26">
         <item>8HP45 ZF (8ст. АКПП)</item>
         <item>8HP70 ZF (8ст. АКПП)</item>
     </string-array>
 
-    <string-array name="e53">
+    <string-array name="x5_e53">
         <item>5L40E GM (5ст. АКПП)</item>
         <item>5HP24 ZF (5ст. АКПП)</item>
         <item>6HP26 ZF (6ст. АКПП)</item>
     </string-array>
 
-    <string-array name="e70">
+    <string-array name="x5_e70">
         <item>6HP19 ZF (6ст. АКПП)</item>
         <item>6HP26 ZF (6ст. АКПП)</item>
         <item>8HP70 ZF (8ст. АКПП)</item>
     </string-array>
 
-    <string-array name="f15">
+    <string-array name="x5_f15">
         <item>8HP45 ZF (8ст. АКПП)</item>
         <item>8HP70 ZF (8ст. АКПП)</item>
     </string-array>
 
-    <string-array name="e71">
+    <string-array name="x6_e71">
         <item>6HP26 ZF (6ст. АКПП)</item>
         <item>8HP45 ZF (8ст. АКПП)</item>
         <item>8HP70 ZF (8ст. АКПП)</item>
