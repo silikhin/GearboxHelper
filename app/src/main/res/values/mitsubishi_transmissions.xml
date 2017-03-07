@@ -1,62 +1,62 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string-array name="carisma">
+    <string-array name="carisma_carisma">
         <item>F4A42 (4ст. АКПП)</item>
     </string-array>
 
-    <string-array name="galant">
+    <string-array name="galant_galant">
         <item>F4A42 (4ст. АКПП)</item>
     </string-array>
 
-    <string-array name="grandis">
+    <string-array name="grandis_grandis">
         <item>F4A42 (4ст. АКПП)</item>
     </string-array>
 
-    <string-array name="l200">
+    <string-array name="l200_l200">
         <item>V4A51 (4ст. АКПП)\n(піддон 20 отв.)</item>
         <item>V5A51 (5ст. АКПП)\n(піддон 20 отв.)</item>
         <item>AW03-71 Aisin Warner (4ст. АКПП)\n(піддон 14 отв.)</item>
         <item>AW30-43 Aisin Warner (4ст. АКПП)\n(піддон 19 отв.)</item>
     </string-array>
 
-    <string-array name="lancer">
+    <string-array name="lancer_lancer">
         <item>F4A42 (4ст. АКПП)</item>
     </string-array>
 
-    <string-array name="ix">
+    <string-array name="lancer_ix">
         <item>F4A42 (4ст. АКПП)</item>
         <item>F1C1 (CVT без піддону)</item>
     </string-array>
 
-    <string-array name="x">
+    <string-array name="lancer_x">
         <item>F4A42 (4ст. АКПП)</item>
         <item>JF011E (CVT з піддоном)</item>
     </string-array>
 
-    <string-array name="outlander">
+    <string-array name="outlander_outlander">
         <item>F4A42 (4ст. АКПП)</item>
     </string-array>
 
-    <string-array name="xl">
+    <string-array name="outlander_xl">
         <item>JF011E (CVT з піддоном)</item>
         <item>JF613E (6ст. АКПП)</item>
     </string-array>
 
-    <string-array name="sport">
+    <string-array name="pajero_sport">
         <item>V4A51 (4ст. АКПП)\n(піддон 20 отв.)</item>
         <item>V5A51 (5ст. АКПП)\n(піддон 20 отв.)</item>
         <item>AW03-71 Aisin Warner (4ст. АКПП)\n(піддон 14 отв.)</item>
         <item>AW30-43 Aisin Warner (4ст. АКПП)\n(піддон 19 отв.)</item>
     </string-array>
 
-    <string-array name="wagon">
+    <string-array name="pajero_wagon">
         <item>V4A51 (4ст. АКПП)\n(піддон 20 отв.)</item>
         <item>V5A51 (5ст. АКПП)\n(піддон 20 отв.)</item>
         <item>AW03-71 Aisin Warner (4ст. АКПП)\n(піддон 14 отв.)</item>
         <item>AW30-43 Aisin Warner (4ст. АКПП)\n(піддон 19 отв.)</item>
     </string-array>
 
-    <string-array name="space">
+    <string-array name="space_star_space">
         <item>F4A42 (4ст. АКПП)</item>
     </string-array>
 </resources>
