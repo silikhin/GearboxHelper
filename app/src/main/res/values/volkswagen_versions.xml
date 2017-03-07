@@ -25,10 +25,10 @@
     </string-array>
 
     <string-array name="passat_versions">
-        <item>В5 (1996-2005)</item>
-        <item>В6 (2005-2010)</item>
-        <item>В7 (2010-2014)</item>
-        <item>В8 (2014-)</item>
+        <item>B5 (1996-2005)</item>
+        <item>B6 (2005-2010)</item>
+        <item>B7 (2010-2014)</item>
+        <item>B8 (2014-)</item>
     </string-array>
 
     <string-array name="phaeton_versions">
@@ -36,14 +36,14 @@
     </string-array>
 
     <string-array name="polo_versions">
-        <item>Polo_III (1994-2001)</item>
-        <item>Polo_IV (2001-2009)</item>
-        <item>Polo_V (2009-)</item>
+        <item>III (1994-2001)</item>
+        <item>IV (2001-2009)</item>
+        <item>V (2009-)</item>
     </string-array>
 
     <string-array name="sharan_versions">
-        <item>Sharan (1995-2010)</item>
-        <item>Sharan_2 (2010-)</item>
+        <item>I (1995-2010)</item>
+        <item>II (2010-)</item>
     </string-array>
 
     <string-array name="tiguan_versions">
@@ -51,8 +51,8 @@
     </string-array>
 
     <string-array name="touareg_versions">
-        <item>Touareg (2002-2010)</item>
-        <item>Touareg_2 (2010-)</item>
+        <item>I (2002-2010)</item>
+        <item>II (2010-)</item>
     </string-array>
 
     <string-array name="touran_versions">
