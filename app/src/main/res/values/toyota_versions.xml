@@ -29,19 +29,19 @@
     </string-array>
 
     <string-array name="land_cruiser_versions">
-        <item>TLC100 (1998-2007)</item>
-        <item>TLC200 (2007-)</item>
+        <item>100 (1998-2007)</item>
+        <item>200 (2007-)</item>
     </string-array>
 
     <string-array name="prado_versions">
-        <item>TLC120 (2002-2009)</item>
-        <item>TLC150 (2009-)</item>
+        <item>120 (2002-2009)</item>
+        <item>150 (2009-)</item>
     </string-array>
 
     <string-array name="rav4_versions">
-        <item>CA20W (2000-2005)</item>
-        <item>CA30W (2005-2012)</item>
-        <item>RAV4 4 (2013-)</item>
+        <item>II (2000-2005)</item>
+        <item>III (2005-2012)</item>
+        <item>IV (2013-)</item>
     </string-array>
 
     <string-array name="sienna_versions">
