@@ -1,6 +1,5 @@
 package com.dukatoil.transmbyvehicle;
 
-import android.app.Dialog;
 import android.content.Context;
 import android.content.DialogInterface;
 import android.content.Intent;
@@ -17,8 +16,8 @@ import android.widget.ListView;
 public class ActivityVariants extends AppCompatActivity {
 
     final Context secondActivity = this;
-    String extra; //передане з 1 екрана (варіант моделі (приклад А6 С6))
-    int connector, connector1; // id списку трансміссій
+    String extra; // extra from MainActivity (type "model_variant"
+    int connector, connector1; // resource id for transmission variants
     String[] variants;
 
 
@@ -32,14 +31,11 @@ public class ActivityVariants extends AppCompatActivity {
         connector = this.getResources().getIdentifier(extra, "array", this.getPackageName());
         variants = getResources().getStringArray(connector);
 
-        // находим список
         final ListView lvMain = (ListView) findViewById(R.id.lvMain);
 
-        // создаем адаптер
         ArrayAdapter<String> adapter = new ArrayAdapter<String>(this,
                 R.layout.item_transmission_variants, variants);
 
-        // присваиваем адаптер списку
         lvMain.setAdapter(adapter);
 
         lvMain.setOnItemClickListener(new AdapterView.OnItemClickListener() {
@@ -54,6 +50,8 @@ public class ActivityVariants extends AppCompatActivity {
 
         if (variants.length>1){
             final String description = extra + "_descr";
+            // TODO: change to original FloatingActionButton (not custom)
+            // this will be changed soon
             final FloatingActionButton fabButton1 = new FloatingActionButton.Builder(this)
                     .withDrawable(getResources().getDrawable(R.drawable.ic_help_outline_white_24dp))
                     .withButtonColor(Color.RED)
@@ -81,7 +79,5 @@ public class ActivityVariants extends AppCompatActivity {
                 }
             });
         }
-
-
     }
 }
