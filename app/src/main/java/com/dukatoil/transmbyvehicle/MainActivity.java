@@ -49,7 +49,13 @@ public class MainActivity extends AppCompatActivity {
 
         cars_list = getResources().getStringArray(R.array.cars);
 
+        // adapter for ListView lvCars
+        ArrayAdapter<String> adapter1 = new ArrayAdapter<String>(this,
+                R.layout.item_child, cars_list);
+        lvCars.setAdapter(adapter1);
 
+        // TODO: change to original FAB (not custom)
+        // This logic will change soon
         final FloatingActionButton fabButton = new FloatingActionButton.Builder(this)
                 .withDrawable(getResources().getDrawable(R.drawable.ic_arrow_forward_white_24px))
                 .withButtonColor(Color.RED)
@@ -70,38 +76,28 @@ public class MainActivity extends AppCompatActivity {
             }
         });
 
-        // создаем адаптер для списку марок авто
-        ArrayAdapter<String> adapter1 = new ArrayAdapter<String>(this,
-                R.layout.item_child, cars_list);
-
-        // присваиваем адаптер списку
-        lvCars.setAdapter(adapter1);
-
-        // які дії виконуються після вибору марки автомобіля
+        // after choosing a car in ListView with car names
         lvCars.setOnItemClickListener(new AdapterView.OnItemClickListener() {
             public void onItemClick(AdapterView<?> parent, View view,
                                     int position, long id) {
                 String car_selected = lvCars.getItemAtPosition(position).toString();
-                // зміна тексту "виберіть марку авто" на "марка авто"
+                // changing text from default to "car name"
                 tv1.setText(car_selected);
-                // ховаю ListView з марками авто
+                // hide Layout with lvCars
                 llCars.setLayoutParams(params_hide);
                 llPrimary1.setBackgroundColor(getResources().getColor(R.color.colorLayout300));
                 llPrimary2.setBackgroundColor(getResources().getColor(R.color.colorLayout100));
                 tv2.setTextColor(getResources().getColor(R.color.textColor90a));
 
-                // наповнення ListView з моделями по вибору марки
+                // filling ListView by models of the car
                 String array_name_for_lv_models = car_selected.toLowerCase().replaceAll("[ -]", "_") + "_models";
                 int intForLVModels = getResources().getIdentifier(array_name_for_lv_models, "array", getPackageName());
                 models_list = getResources().getStringArray(intForLVModels);
-                // адаптер для ListView з моделями
+                // adapter for ListView of models
                 ArrayAdapter<String> adapter2 = new ArrayAdapter<String>(firstActivity,
                         R.layout.item_child, models_list);
-                // присвоєння адаптера
                 lvModels.setAdapter(adapter2);
-                // показую ListView з вибором моделі авто
                 llModels.setLayoutParams(params_show);
-
             }
         });
 
@@ -109,25 +105,23 @@ public class MainActivity extends AppCompatActivity {
             @Override
             public void onItemClick(AdapterView<?> adapterView, View view, int i, long l) {
                 model_selected = lvModels.getItemAtPosition(i).toString();
-                // зміна тексту "виберіть марку" на "назва марки"
+                // changing text from default to "model name"
                 tv2.setText(model_selected);
-                // ховаю ListView з моделями
+                // hide Layout with lvModels
                 llModels.setLayoutParams(params_hide);
                 llPrimary2.setBackgroundColor(getResources().getColor(R.color.colorLayout300));
                 llPrimary3.setBackgroundColor(getResources().getColor(R.color.colorLayout100));
                 tv3.setTextColor(getResources().getColor(R.color.textColor90a));
 
-                // наповнення ListView з варіантами (кузовами)
+                // filling ListView by variants of the model
                 String array_name_for_lv_versions = model_selected.toLowerCase().replaceAll("[ -]", "_") + "_versions";
                 int intForLVVersions = getResources().getIdentifier(array_name_for_lv_versions, "array", getPackageName());
                 versions_list = getResources().getStringArray(intForLVVersions);
 
-                // адаптер для ListView з варіантами
+                // adapter for ListView of variants
                 ArrayAdapter<String> adapter3 = new ArrayAdapter<String>(firstActivity,
                         R.layout.item_child, versions_list);
-                // присвоєння адаптера
                 lvVersions.setAdapter(adapter3);
-                // показую ListView з вибором варіанта
                 llVersions.setLayoutParams(params_show);
             }
         });
@@ -136,13 +130,13 @@ public class MainActivity extends AppCompatActivity {
             @Override
             public void onItemClick(AdapterView<?> adapterView, View view, int i, long l) {
                 String version_selected = lvVersions.getItemAtPosition(i).toString();
-                // зміна тексту "виберіть версію" на "назва версії/кузова"
+                // changing text from default to "version name"
                 tv3.setText(version_selected);
-                // ховаю ListView з версіями
+                // hide Layout with lvVersions
                 llVersions.setLayoutParams(params_hide);
                 llPrimary4.setLayoutParams(params_show);
                 llPrimary3.setBackgroundColor(getResources().getColor(R.color.colorLayout300));
-                // показую кнопку "Далі"
+                // show FloatingActionButton
                 fabButton.showFloatingActionButton();
             }
         });
