@@ -9,10 +9,9 @@ public class ActivityTransmission extends AppCompatActivity {
 
     TextView tvTransmission, tvOil, tvCapacity, tvFilterGasket, tvNotes;
     String[] components;
-    String extra; // отримана з попереднього Activity
+    String extra; // extra from ActivityVariants (like "5hp19")
     String res_transmission; //resource array name
-    int connector; // resId for String array
-
+    int connector; // resource Id for String array
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
