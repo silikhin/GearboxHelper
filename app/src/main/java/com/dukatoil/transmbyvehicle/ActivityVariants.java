@@ -50,8 +50,6 @@ public class ActivityVariants extends AppCompatActivity {
 
         if (variants.length>1){
             final String description = extra + "_descr";
-            // TODO: change to original FloatingActionButton (not custom)
-            // this will be changed soon
             final FloatingActionButton fabButton1 = new FloatingActionButton.Builder(this)
                     .withDrawable(getResources().getDrawable(R.drawable.ic_help_outline_white_24dp))
                     .withButtonColor(Color.RED)
