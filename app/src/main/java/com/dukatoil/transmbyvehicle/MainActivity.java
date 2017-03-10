@@ -54,8 +54,6 @@ public class MainActivity extends AppCompatActivity {
                 R.layout.item_child, cars_list);
         lvCars.setAdapter(adapter1);
 
-        // TODO: change to original FAB (not custom)
-        // This logic will change soon
         final FloatingActionButton fabButton = new FloatingActionButton.Builder(this)
                 .withDrawable(getResources().getDrawable(R.drawable.ic_arrow_forward_white_24px))
                 .withButtonColor(Color.RED)
