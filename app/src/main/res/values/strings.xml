@@ -5,4 +5,10 @@
     <string name="text_view_3">Виберіть версію автомобіля</string>
     <string name="text_dialog_title">Визначення АКПП:</string>
     <string name="button_ok">OK</string>
+    <string-array name="title_act_transm">
+        <item>Тип масла</item>
+        <item>Кількість</item>
+        <item>Фільтр та прокладка</item>
+        <item>Примітки</item>
+    </string-array>
 </resources>
