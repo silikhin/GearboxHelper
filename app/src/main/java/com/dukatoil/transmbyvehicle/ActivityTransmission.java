@@ -7,16 +7,17 @@ import android.widget.ArrayAdapter;
 import android.widget.ListView;
 import android.widget.TextView;
 
+import java.util.Arrays;
+
 public class ActivityTransmission extends AppCompatActivity {
 
     TextView tvTransmission;
     ListView lvAbout;
-    String[] components;
+    String[] title, components;
     String extra; // extra from ActivityVariants (like "5hp19")
     String res_transmission; //resource array name
     int connector; // resource Id for String array
 
-//    TODO: change to multiline list
 //    TODO: add ImageView for Transmission
     @Override
     protected void onCreate(Bundle savedInstanceState) {
@@ -32,9 +33,12 @@ public class ActivityTransmission extends AppCompatActivity {
         res_transmission = "transmission_" + extra.toLowerCase().split(" ")[0].replaceAll("[.-]", "_");
         connector = getResources().getIdentifier(res_transmission, "array", getPackageName());
         components = getResources().getStringArray(connector);
+        title = getResources().getStringArray(R.array.title_act_transm);
+        if (components.length<4){
+            title = Arrays.copyOfRange(title, 0, 3);
+        }
 
-//        TODO: change the resource to item_activity_transmission
-        ArrayAdapter<String> adapter = new ArrayAdapter<String>(this, R.layout.item_transmission_variants, components);
+        ArrayAdapterInfo adapter = new ArrayAdapterInfo(this, R.layout.item_activity_transmission, title, components);
         lvAbout.setAdapter(adapter);
     }
 }
