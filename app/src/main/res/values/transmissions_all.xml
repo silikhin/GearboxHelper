@@ -29,14 +29,14 @@
     </string-array>
 
     <string-array name="transmission_01j">
-        <item>Castrol Transmax CVT або Comma AQCVT</item>
+        <item>Castrol Transmax CVT\nComma AQCVT</item>
         <item>7,7 л.</item>
         <item>не міняється</item>
         <item>для повної заміни достатньо 8 л.</item>
     </string-array>
 
     <string-array name="transmission_0aw">
-        <item>Castrol Transmax CVT або Comma AQCVT</item>
+        <item>Castrol Transmax CVT\nComma AQCVT</item>
         <item>8 л.</item>
         <item>0AW 301 516 H</item>
         <item>переглянути можливість повної заміни</item>
@@ -257,7 +257,7 @@
     </string-array>
 
     <string-array name="transmission_722_8">
-        <item>Castrol Transmax CVT або Comma AQCVT</item>
+        <item>Castrol Transmax CVT\nComma AQCVT</item>
         <item>6,5 л.</item>
         <item>до 10.05.2007 - Meyle 014 037 0004/S\nз 10.05.2007 - Vaico V30-1452</item>
         <item>2 варіанти прокладок (переглянути на авто)</item>
@@ -318,7 +318,7 @@
     </string-array>
 
     <string-array name="transmission_f1c1">
-        <item>Castrol Transmax CVT або Comma AQCVT</item>
+        <item>Castrol Transmax CVT\nComma AQCVT</item>
         <item>7,1 л.</item>
         <item>Не міняється (без піддону)</item>
     </string-array>
@@ -330,7 +330,7 @@
     </string-array>
 
     <string-array name="transmission_jf011e">
-        <item>Castrol Transmax CVT або Comma AQCVT</item>
+        <item>Castrol Transmax CVT\nComma AQCVT</item>
         <item>7,1 л.</item>
         <item>2824A007 (сітка, в піддоні) \n2824A006 (фільтр зовнішній)\n2705A015 (прокладка)</item>
         <item>Можна міняти тільки зовнішній фільтр</item>
