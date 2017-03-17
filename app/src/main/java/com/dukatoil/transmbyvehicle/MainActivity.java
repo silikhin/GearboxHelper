@@ -23,7 +23,7 @@ public class MainActivity extends AppCompatActivity {
     String[] cars_list, models_list, versions_list;
     String model_selected;
     final Context firstActivity = this;
-    LinearLayout.LayoutParams params_show = new LinearLayout.LayoutParams(ViewGroup.LayoutParams.MATCH_PARENT, ViewGroup.LayoutParams.MATCH_PARENT);
+    LinearLayout.LayoutParams params_show = new LinearLayout.LayoutParams(ViewGroup.LayoutParams.MATCH_PARENT, ViewGroup.LayoutParams.WRAP_CONTENT);
     LinearLayout.LayoutParams params_hide = new LinearLayout.LayoutParams(ViewGroup.LayoutParams.MATCH_PARENT, 1);
 
     @Override
@@ -144,13 +144,16 @@ public class MainActivity extends AppCompatActivity {
             public void onClick(View view) {
                 tv1.setText(R.string.text_view_1);
                 tv2.setText(R.string.text_view_2);
+                tv2.setTextColor(getResources().getColor(R.color.textColor54a));
                 tv3.setText(R.string.text_view_3);
+                tv3.setTextColor(getResources().getColor(R.color.textColor54a));
                 llModels.setLayoutParams(params_hide);
                 llCars.setLayoutParams(params_show);
                 llPrimary1.setBackgroundColor(getResources().getColor(R.color.colorLayout100));
                 llPrimary2.setBackgroundColor(Color.WHITE);
                 llPrimary3.setBackgroundColor(Color.WHITE);
                 fabButton.hideFloatingActionButton();
+//              TODO: не ховати (як перероблю розмітку)
                 llPrimary4.setLayoutParams(params_hide);
             }
         });
@@ -162,7 +165,9 @@ public class MainActivity extends AppCompatActivity {
                     Toast.makeText(firstActivity, "Спочатку виберіть марку автомобіля", Toast.LENGTH_SHORT).show();
                 } else {
                     tv2.setText(R.string.text_view_2);
+                    tv2.setTextColor(getResources().getColor(R.color.textColor54a));
                     tv3.setText(R.string.text_view_3);
+                    tv3.setTextColor(getResources().getColor(R.color.textColor54a));
                     llCars.setLayoutParams(params_hide);
                     llVersions.setLayoutParams(params_hide);
                     llModels.setLayoutParams(params_show);
@@ -182,6 +187,7 @@ public class MainActivity extends AppCompatActivity {
                     Toast.makeText(firstActivity, "Спочатку виберіть модель автомобіля", Toast.LENGTH_SHORT).show();
                 } else {
                     tv3.setText(R.string.text_view_3);
+                    tv3.setTextColor(getResources().getColor(R.color.textColor54a));
                     llVersions.setLayoutParams(params_show);
                     llPrimary3.setBackgroundColor(getResources().getColor(R.color.colorLayout100));
                     fabButton.hideFloatingActionButton();
