@@ -31,21 +31,17 @@
 
     <string-array name="a4_b7">
         <item>01J Multitronic (CVT)</item>
-        <item>5HP19 (01V VAG)\n(5ст. АКПП)</item>
-        <item>09E (6ст. АКПП)</item>
         <item>09L (6ст. АКПП)</item>
     </string-array>
 
     <string-array name="a4_b8">
         <item>0AW (CVT)</item>
         <item>09E (6ст. АКПП)</item>
-        <item>09L (6ст. АКПП)</item>
         <item>0B5 (DL501) (S-tronic)\nНЕ обслуговувати!</item>
         <item>8HP55 ZF (0BK VAG)\n(8ст. АКПП)</item>
     </string-array>
 
     <string-array name="a5_a5">
-        <item>01J Multitronic (CVT)</item>
         <item>0AW (CVT)</item>
         <item>09E (6ст. АКПП)</item>
         <item>0B5 (DL501) (S-tronic)\nНЕ обслуговувати!</item>
@@ -70,14 +66,12 @@
     </string-array>
 
     <string-array name="a6_c7">
-        <item>01J Multitronic (CVT)</item>
         <item>0AW (CVT)</item>
         <item>0B5 (DL501) (S-tronic)\nНЕ обслуговувати!</item>
         <item>8HP55 ZF (0BK VAG)\n(8ст. АКПП)</item>
     </string-array>
 
     <string-array name="a7_a7">
-        <item>01J Multitronic (CVT)</item>
         <item>0AW (CVT)</item>
         <item>0B5 (DL501) (S-tronic)\nНЕ обслуговувати!</item>
         <item>8HP55 ZF (0BK VAG)\n(8ст. АКПП)</item>
