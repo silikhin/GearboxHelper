@@ -6,6 +6,7 @@ import android.content.res.Resources;
 import android.graphics.Color;
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
+import android.util.Log;
 import android.view.Gravity;
 import android.view.View;
 import android.view.ViewGroup;
@@ -40,7 +41,9 @@ public class MainActivity extends AppCompatActivity {
         llPrimary1 = (LinearLayout) findViewById(R.id.llPrimary1);
         llPrimary2 = (LinearLayout) findViewById(R.id.llPrimary2);
         llPrimary3 = (LinearLayout) findViewById(R.id.llPrimary3);
+        logMemory();
         llPrimary4 = (LinearLayout) findViewById(R.id.llPrimary4);
+        logMemory();
         llCars = (LinearLayout) findViewById(R.id.llCars);
         llModels = (LinearLayout) findViewById(R.id.llModels);
         llVersions = (LinearLayout) findViewById(R.id.llVersions);
@@ -135,6 +138,7 @@ public class MainActivity extends AppCompatActivity {
                 // hide Layout with lvVersions
                 llVersions.setLayoutParams(params_hide);
                 llPrimary4.setLayoutParams(image_params_show);
+                logMemory();
                 llPrimary3.setBackgroundColor(getResources().getColor(R.color.colorLayout300));
                 // show FloatingActionButton
                 fabButton.showFloatingActionButton();
@@ -189,7 +193,6 @@ public class MainActivity extends AppCompatActivity {
                     Toast.makeText(firstActivity, "Спочатку виберіть модель автомобіля", Toast.LENGTH_SHORT).show();
                 } else {
                     tv3.setText(R.string.text_view_3);
-//                    tv3.setTextColor(getResources().getColor(R.color.textColor54a));
                     llVersions.setLayoutParams(params_show);
                     llPrimary4.setLayoutParams(params_hide);
                     llPrimary3.setBackgroundColor(getResources().getColor(R.color.colorLayout100));
@@ -197,5 +200,10 @@ public class MainActivity extends AppCompatActivity {
                 }
             }
         });
+    }
+
+    private void logMemory() {
+        Log.d("myLogs", String.format("Total memory = %s",
+                (int) (Runtime.getRuntime().totalMemory() / 1024)));
     }
 }

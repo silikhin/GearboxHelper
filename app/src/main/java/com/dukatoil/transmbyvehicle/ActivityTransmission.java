@@ -3,6 +3,7 @@ package com.dukatoil.transmbyvehicle;
 import android.content.Intent;
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
+import android.util.Log;
 import android.widget.ArrayAdapter;
 import android.widget.ListView;
 import android.widget.TextView;
@@ -40,5 +41,12 @@ public class ActivityTransmission extends AppCompatActivity {
 
         ArrayAdapterInfo adapter = new ArrayAdapterInfo(this, R.layout.item_activity_transmission, title, components);
         lvAbout.setAdapter(adapter);
+
+        logMemory();
+    }
+
+    private void logMemory() {
+        Log.d("myLogs", String.format("Total memory = %s",
+                (int) (Runtime.getRuntime().totalMemory() / 1024)));
     }
 }

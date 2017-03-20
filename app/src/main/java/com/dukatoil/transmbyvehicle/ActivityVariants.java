@@ -7,6 +7,7 @@ import android.graphics.Color;
 import android.support.v7.app.AlertDialog;
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
+import android.util.Log;
 import android.view.Gravity;
 import android.view.View;
 import android.widget.AdapterView;
@@ -77,5 +78,12 @@ public class ActivityVariants extends AppCompatActivity {
                 }
             });
         }
+
+        logMemory();
+    }
+
+    private void logMemory() {
+        Log.d("myLogs", String.format("Total memory = %s",
+                (int) (Runtime.getRuntime().totalMemory() / 1024)));
     }
 }
