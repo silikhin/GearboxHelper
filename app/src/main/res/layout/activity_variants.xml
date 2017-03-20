@@ -22,6 +22,7 @@
         <ImageView
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
+            android:layout_centerVertical="true"
             app:srcCompat="@drawable/ic_act_variants"
             android:id="@+id/imageView2"
             android:alpha="0.1"/>
@@ -33,8 +34,5 @@
             android:layout_alignParentTop="true"
             android:layout_centerVertical="true">
         </ListView>
-
-
     </RelativeLayout>
-
 </LinearLayout>
