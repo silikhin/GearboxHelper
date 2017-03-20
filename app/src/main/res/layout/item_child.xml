@@ -6,5 +6,5 @@
     android:layout_height="48dp"
     android:gravity="center_vertical|center_horizontal"
     android:text="TextView"
-    android:textSize="16sp">
+    android:textSize="18sp">
 </TextView>
