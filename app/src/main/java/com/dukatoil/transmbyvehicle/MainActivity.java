@@ -12,6 +12,7 @@ import android.view.View;
 import android.view.ViewGroup;
 import android.widget.AdapterView;
 import android.widget.ArrayAdapter;
+import android.widget.ImageView;
 import android.widget.LinearLayout;
 import android.widget.ListView;
 import android.widget.TextView;
@@ -22,9 +23,12 @@ public class MainActivity extends AppCompatActivity {
     TextView tv1, tv2, tv3;
     LinearLayout llPrimary1, llPrimary2, llPrimary3, llPrimary4, llCars, llModels, llVersions;
     ListView lvCars, lvModels, lvVersions;
+    ImageView imageMain;
     String[] cars_list, models_list, versions_list;
     String model_selected;
     final Context firstActivity = this;
+    final int screenWidth = ImageDecoding.getScreenWidth();;
+    final int screenHeight = ImageDecoding.getScreenHeight();
     LinearLayout.LayoutParams params_show = new LinearLayout.LayoutParams(ViewGroup.LayoutParams.MATCH_PARENT, ViewGroup.LayoutParams.WRAP_CONTENT);
     LinearLayout.LayoutParams image_params_show = new LinearLayout.LayoutParams(ViewGroup.LayoutParams.MATCH_PARENT, ViewGroup.LayoutParams.MATCH_PARENT);
     LinearLayout.LayoutParams params_hide = new LinearLayout.LayoutParams(ViewGroup.LayoutParams.MATCH_PARENT, 1);
@@ -41,9 +45,7 @@ public class MainActivity extends AppCompatActivity {
         llPrimary1 = (LinearLayout) findViewById(R.id.llPrimary1);
         llPrimary2 = (LinearLayout) findViewById(R.id.llPrimary2);
         llPrimary3 = (LinearLayout) findViewById(R.id.llPrimary3);
-        logMemory();
         llPrimary4 = (LinearLayout) findViewById(R.id.llPrimary4);
-        logMemory();
         llCars = (LinearLayout) findViewById(R.id.llCars);
         llModels = (LinearLayout) findViewById(R.id.llModels);
         llVersions = (LinearLayout) findViewById(R.id.llVersions);
@@ -51,6 +53,11 @@ public class MainActivity extends AppCompatActivity {
         lvCars = (ListView) findViewById(R.id.lvCars);
         lvModels = (ListView) findViewById(R.id.lvModels);
         lvVersions = (ListView) findViewById(R.id.lvVersions);
+
+        imageMain = (ImageView) findViewById(R.id.imageView3);
+        logMemory();
+        imageMain.setImageBitmap(ImageDecoding.decodeSampledBitmapFromResource(getResources(), R.drawable.ic_image_main1, screenWidth, screenHeight));
+        logMemory();
 
         cars_list = getResources().getStringArray(R.array.cars);
 
