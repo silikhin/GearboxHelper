@@ -19,10 +19,11 @@ public class ImageDecoding {
 
         // Calculate inSampleSize
         options.inSampleSize = calculateInSampleSize(options, reqWidth, reqHeight);
+        options.inPreferredConfig = Bitmap.Config.RGB_565;
 
         // Decode bitmap with inSampleSize set
         options.inJustDecodeBounds = false;
-        Log.d("myLogs", String.valueOf(options.inSampleSize));
+        Log.d("myLogs", "Картинка ужимається в " + String.valueOf(options.inSampleSize) + " разів");
         return BitmapFactory.decodeResource(res, resId, options);
     }
 
@@ -36,6 +37,8 @@ public class ImageDecoding {
 
                 final int halfHeight = height / 2;
                 final int halfWidth = width / 2;
+
+                Log.d("myLogs", "halfHeight=" + halfHeight + ", halfWidth=" + halfWidth);
 
                 // Calculate the largest inSampleSize value that is a power of 2 and keeps both
                 // height and width larger than the requested height and width.
