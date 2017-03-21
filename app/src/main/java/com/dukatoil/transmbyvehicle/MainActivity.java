@@ -55,8 +55,9 @@ public class MainActivity extends AppCompatActivity {
         lvVersions = (ListView) findViewById(R.id.lvVersions);
 
         imageMain = (ImageView) findViewById(R.id.imageView3);
+        Log.d("myLogs", "screenWidth=" + screenWidth + ", screenHeight=" + screenHeight);
         logMemory();
-        imageMain.setImageBitmap(ImageDecoding.decodeSampledBitmapFromResource(getResources(), R.drawable.ic_image_main1, screenWidth, screenHeight));
+        imageMain.setImageBitmap(ImageDecoding.decodeSampledBitmapFromResource(getResources(), R.drawable.ic_image_main, screenWidth, screenHeight));
         logMemory();
 
         cars_list = getResources().getStringArray(R.array.cars);
