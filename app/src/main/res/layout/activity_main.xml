@@ -120,7 +120,6 @@
         <ImageView
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            app:srcCompat="@drawable/ic_image_main"
             android:id="@+id/imageView3"
             android:layout_weight="1"
             android:layout_gravity="center_vertical" />
