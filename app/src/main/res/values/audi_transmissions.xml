@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string-array name="a1_a1">
-        <item>DQ200 (S-tronic)(DSG 7ст.)\n НЕ обслуговувати!</item>
+        <item>DQ200 (0AM, 0BM, 0CW)(DSG 7ст.)\n(масло не міняється)</item>
     </string-array>
 
     <string-array name="a3_8l">
@@ -11,7 +11,7 @@
 
     <string-array name="a3_8p">
         <item>02E (DQ250) (DSG 6ст.)</item>
-        <item>DQ200 (S-tronic)(DSG 7ст.)\n НЕ обслуговувати!</item>
+        <item>DQ200 (0AM, 0BM, 0CW)(DSG 7ст.)\n(масло не міняється)</item>
     </string-array>
 
     <string-array name="a3_8v">
@@ -118,12 +118,12 @@
     </string-array>
 
     <string-array name="tt_8j">
-        <item>DQ200 (S-tronic)(DSG 7ст.)\n НЕ обслуговувати!</item>
+        <item>DQ200 (0AM, 0BM, 0CW)(DSG 7ст.)\n(масло не міняється)</item>
         <item>DQ500 (S-tronic)(DSG 7ст.)\n НЕ обслуговувати!</item>
     </string-array>
 
     <string-array name="tt_8s">
-        <item>DQ200 (S-tronic)(DSG 7ст.)\n НЕ обслуговувати!</item>
+        <item>DQ200 (0AM, 0BM, 0CW)(DSG 7ст.)\n(масло не міняється)</item>
         <item>DQ500 (S-tronic)(DSG 7ст.)\n НЕ обслуговувати!</item>
     </string-array>
 </resources>

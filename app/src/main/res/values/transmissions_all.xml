@@ -50,10 +50,10 @@
     </string-array>
 
     <string-array name="transmission_dq200">
-        <item>спец. продукт</item>
         <item>н/д</item>
         <item>н/д</item>
-        <item>Не обслуговувати! (багато конструктивних недоліків)</item>
+        <item>н/д</item>
+        <item>Коробка не обслуговується</item>
     </string-array>
 
     <string-array name="transmission_dq500">
