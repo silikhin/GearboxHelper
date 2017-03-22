@@ -11,7 +11,7 @@
 
     <string-array name="caddy_caddy">
         <item>02E (DQ250) (DSG 6ст.)</item>
-        <item>DQ200 (S-tronic)(DSG 7ст.)\n НЕ обслуговувати!</item>
+        <item>DQ200 (0AM, 0BM, 0CW)(DSG 7ст.)\n(масло не міняється)</item>
     </string-array>
 
     <string-array name="golf_iii">
@@ -26,25 +26,25 @@
     <string-array name="golf_v">
         <item>09G (6ст. АКПП)</item>
         <item>02E (DQ250) (DSG 6ст.)</item>
-        <item>DQ200 (S-tronic)(DSG 7ст.)\n НЕ обслуговувати!</item>
+        <item>DQ200 (0AM, 0BM, 0CW)(DSG 7ст.)\n(масло не міняється)</item>
     </string-array>
 
     <string-array name="golf_vi">
         <item>09G (6ст. АКПП)</item>
         <item>02E (DQ250) (DSG 6ст.)</item>
-        <item>DQ200 (S-tronic)(DSG 7ст.)\n НЕ обслуговувати!</item>
+        <item>DQ200 (0AM, 0BM, 0CW)(DSG 7ст.)\n(масло не міняється)</item>
     </string-array>
 
     <string-array name="golf_vii">
         <item>09G (6ст. АКПП)</item>
         <item>02E (DQ250) (DSG 6ст.)</item>
-        <item>DQ200 (S-tronic)(DSG 7ст.)\n НЕ обслуговувати!</item>
+        <item>DQ200 (0AM, 0BM, 0CW)(DSG 7ст.)\n(масло не міняється)</item>
     </string-array>
 
     <string-array name="jetta_jetta">
         <item>09G (6ст. АКПП)</item>
         <item>02E (DQ250) (DSG 6ст.)</item>
-        <item>DQ200 (S-tronic)(DSG 7ст.)\n НЕ обслуговувати!</item>
+        <item>DQ200 (0AM, 0BM, 0CW)(DSG 7ст.)\n(масло не міняється)</item>
     </string-array>
 
     <string-array name="passat_b5">
@@ -56,17 +56,17 @@
         <item>09G (6ст. АКПП)</item>
         <item>09M (6ст. АКПП)</item>
         <item>02E (DQ250) (DSG 6ст.)</item>
-        <item>DQ200 (S-tronic)(DSG 7ст.)\n НЕ обслуговувати!</item>
+        <item>DQ200 (0AM, 0BM, 0CW)(DSG 7ст.)\n(масло не міняється)</item>
     </string-array>
 
     <string-array name="passat_b7">
         <item>02E (DQ250) (DSG 6ст.)</item>
-        <item>DQ200 (S-tronic)(DSG 7ст.)\n НЕ обслуговувати!</item>
+        <item>DQ200 (0AM, 0BM, 0CW)(DSG 7ст.)\n(масло не міняється)</item>
     </string-array>
 
     <string-array name="passat_b8">
         <item>02E (DQ250) (DSG 6ст.)</item>
-        <item>DQ200 (S-tronic)(DSG 7ст.)\n НЕ обслуговувати!</item>
+        <item>DQ200 (0AM, 0BM, 0CW)(DSG 7ст.)\n(масло не міняється)</item>
         <item>DQ500 (S-tronic)(DSG 7ст.)\n НЕ обслуговувати!</item>
     </string-array>
 
@@ -90,7 +90,7 @@
 
     <string-array name="polo_v">
         <item>09M (6ст. АКПП)</item>
-        <item>DQ200 (S-tronic)(DSG 7ст.)\n НЕ обслуговувати!</item>
+        <item>DQ200 (0AM, 0BM, 0CW)(DSG 7ст.)\n(масло не міняється)</item>
     </string-array>
     
     <string-array name="sharan_i">
@@ -100,14 +100,14 @@
 
     <string-array name="sharan_ii">
         <item>02E (DQ250) (DSG 6ст.)</item>
-        <item>DQ200 (S-tronic)(DSG 7ст.)\n НЕ обслуговувати!</item>
+        <item>DQ200 (0AM, 0BM, 0CW)(DSG 7ст.)\n(масло не міняється)</item>
         <item>DQ500 (S-tronic)(DSG 7ст.)\n НЕ обслуговувати!</item>
     </string-array>
 
     <string-array name="tiguan_tiguan">
         <item>09M (6ст. АКПП)</item>
         <item>02E (DQ250) (DSG 6ст.)</item>
-        <item>DQ200 (S-tronic)(DSG 7ст.)\n НЕ обслуговувати!</item>
+        <item>DQ200 (0AM, 0BM, 0CW)(DSG 7ст.)\n(масло не міняється)</item>
         <item>DQ500 (S-tronic)(DSG 7ст.)\n НЕ обслуговувати!</item>
     </string-array>
 
@@ -122,7 +122,7 @@
     <string-array name="touran_touran">
         <item>09G (6ст. АКПП)</item>
         <item>02E (DQ250) (DSG 6ст.)</item>
-        <item>DQ200 (S-tronic)(DSG 7ст.)\n НЕ обслуговувати!</item>
+        <item>DQ200 (0AM, 0BM, 0CW)(DSG 7ст.)\n(масло не міняється)</item>
     </string-array>
 
     <string-array name="transporter_t4">
