@@ -38,14 +38,14 @@
         <item>0AW (CVT)</item>
         <item>09E (6ст. АКПП)</item>
         <item>0B5 (DL501) (S-tronic)\nНЕ обслуговувати!</item>
-        <item>8HP55 ZF (0BK VAG)\n(8ст. АКПП)</item>
+        <item>0BK (8ст. АКПП)\n(ZF 8HP55)</item>
     </string-array>
 
     <string-array name="a5_a5">
         <item>0AW (CVT)</item>
         <item>09E (6ст. АКПП)</item>
         <item>0B5 (DL501) (S-tronic)\nНЕ обслуговувати!</item>
-        <item>8HP55 ZF (0BK VAG)\n(8ст. АКПП)</item>
+        <item>0BK (8ст. АКПП)\n(ZF 8HP55)</item>
     </string-array>
 
     <string-array name="a6_c4">
@@ -68,13 +68,13 @@
     <string-array name="a6_c7">
         <item>0AW (CVT)</item>
         <item>0B5 (DL501) (S-tronic)\nНЕ обслуговувати!</item>
-        <item>8HP55 ZF (0BK VAG)\n(8ст. АКПП)</item>
+        <item>0BK (8ст. АКПП)\n(ZF 8HP55)</item>
     </string-array>
 
     <string-array name="a7_a7">
         <item>0AW (CVT)</item>
         <item>0B5 (DL501) (S-tronic)\nНЕ обслуговувати!</item>
-        <item>8HP55 ZF (0BK VAG)\n(8ст. АКПП)</item>
+        <item>0BK (8ст. АКПП)\n(ZF 8HP55)</item>
     </string-array>
     
     <string-array name="a8_d2">
@@ -91,7 +91,7 @@
     </string-array>
 
     <string-array name="a8_d4">
-        <item>8HP55 ZF (0BK VAG)\n(8ст. АКПП)</item>
+        <item>0BK (8ст. АКПП)\n(ZF 8HP55)</item>
     </string-array>
 
     <string-array name="q3_q3">
@@ -103,7 +103,7 @@
     <string-array name="q5_q5">
         <item>09E (6ст. АКПП)</item>
         <item>0B5 (DL501) (S-tronic)\nНЕ обслуговувати!</item>
-        <item>8HP55 ZF (0BK VAG)\n(8ст. АКПП)</item>
+        <item>0BK (8ст. АКПП)\n(ZF 8HP55)</item>
     </string-array>
 
     <string-array name="q7_q7">

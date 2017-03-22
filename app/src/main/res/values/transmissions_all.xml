@@ -77,6 +77,12 @@
         <item>Meyle 100 137 0010</item>
     </string-array>
 
+    <string-array name="transmission_0bk">
+        <item>Liqui Moly Top Tec 1800</item>
+        <item>9 л.</item>
+        <item>Meyle 100 137 0006</item>
+    </string-array>
+
     <string-array name="transmission_09a">
         <item>Liqui Moly Top Tec 1200\nTeboil Fluid S</item>
         <item>7 л.</item>
@@ -189,12 +195,6 @@
         <item>8,5 л.</item>
         <item>Meyle 300 325 0002</item>
         <item>Фільтр впаяний в піддон КПП\nПереглянути можливість повної заміни</item>
-    </string-array>
-
-    <string-array name="transmission_8hp55">
-        <item>Liqui Moly Top Tec 1800</item>
-        <item>9 л.</item>
-        <item>Meyle 100 137 0006</item>
     </string-array>
 
     <string-array name="transmission_8hp70">
