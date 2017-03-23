@@ -15,7 +15,7 @@
     </string-array>
 
     <string-array name="a3_8v">
-        <item>DQ500 (S-tronic)(DSG 7ст.)\n НЕ обслуговувати!</item>
+        <item>0BH (S-tronic)(DSG 7ст.)</item>
     </string-array>
 
     <string-array name="a4_b5">
@@ -37,14 +37,14 @@
     <string-array name="a4_b8">
         <item>0AW (CVT)</item>
         <item>09E (6ст. АКПП)</item>
-        <item>0B5 (DL501) (S-tronic)\nНЕ обслуговувати!</item>
+        <item>0B5 (S-tronic) (DL501) (DSG 7ст.)</item>
         <item>0BK (8ст. АКПП)\n(ZF 8HP55)</item>
     </string-array>
 
     <string-array name="a5_a5">
         <item>0AW (CVT)</item>
         <item>09E (6ст. АКПП)</item>
-        <item>0B5 (DL501) (S-tronic)\nНЕ обслуговувати!</item>
+        <item>0B5 (S-tronic) (DL501) (DSG 7ст.)</item>
         <item>0BK (8ст. АКПП)\n(ZF 8HP55)</item>
     </string-array>
 
@@ -67,13 +67,13 @@
 
     <string-array name="a6_c7">
         <item>0AW (CVT)</item>
-        <item>0B5 (DL501) (S-tronic)\nНЕ обслуговувати!</item>
+        <item>0B5 (S-tronic) (DL501) (DSG 7ст.)</item>
         <item>0BK (8ст. АКПП)\n(ZF 8HP55)</item>
     </string-array>
 
     <string-array name="a7_a7">
         <item>0AW (CVT)</item>
-        <item>0B5 (DL501) (S-tronic)\nНЕ обслуговувати!</item>
+        <item>0B5 (S-tronic) (DL501) (DSG 7ст.)</item>
         <item>0BK (8ст. АКПП)\n(ZF 8HP55)</item>
     </string-array>
     
@@ -97,12 +97,12 @@
     <string-array name="q3_q3">
         <item>02E (DQ250) (DSG 6ст.)</item>
         <item>09M (6ст. АКПП)</item>
-        <item>DQ500 (S-tronic)(DSG 7ст.)\n НЕ обслуговувати!</item>
+        <item>0BH (S-tronic)(DSG 7ст.)</item>
     </string-array>
 
     <string-array name="q5_q5">
         <item>09E (6ст. АКПП)</item>
-        <item>0B5 (DL501) (S-tronic)\nНЕ обслуговувати!</item>
+        <item>0B5 (S-tronic) (DL501) (DSG 7ст.)</item>
         <item>0BK (8ст. АКПП)\n(ZF 8HP55)</item>
     </string-array>
 
@@ -119,11 +119,11 @@
 
     <string-array name="tt_8j">
         <item>DQ200 (0AM, 0BM, 0CW)(DSG 7ст.)\n(масло не міняється)</item>
-        <item>DQ500 (S-tronic)(DSG 7ст.)\n НЕ обслуговувати!</item>
+        <item>0BH (S-tronic)(DSG 7ст.)</item>
     </string-array>
 
     <string-array name="tt_8s">
         <item>DQ200 (0AM, 0BM, 0CW)(DSG 7ст.)\n(масло не міняється)</item>
-        <item>DQ500 (S-tronic)(DSG 7ст.)\n НЕ обслуговувати!</item>
+        <item>0BH (S-tronic)(DSG 7ст.)</item>
     </string-array>
 </resources>
