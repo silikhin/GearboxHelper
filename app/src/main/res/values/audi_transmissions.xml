@@ -118,12 +118,13 @@
     </string-array>
 
     <string-array name="tt_8j">
+        <item>02E (DQ250) (DSG 6ст.)</item>
         <item>DQ200 (0AM, 0BM, 0CW)(DSG 7ст.)\n(масло не міняється)</item>
         <item>0BH (S-tronic)(DSG 7ст.)</item>
     </string-array>
 
     <string-array name="tt_8s">
+        <item>02E (DQ250) (DSG 6ст.)</item>
         <item>DQ200 (0AM, 0BM, 0CW)(DSG 7ст.)\n(масло не міняється)</item>
-        <item>0BH (S-tronic)(DSG 7ст.)</item>
     </string-array>
 </resources>
