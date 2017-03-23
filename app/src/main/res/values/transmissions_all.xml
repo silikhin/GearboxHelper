@@ -56,19 +56,20 @@
         <item>Коробка не обслуговується</item>
     </string-array>
 
-    <string-array name="transmission_dq500">
-        <item>спец. продукт</item>
-        <item>н/д</item>
-        <item>н/д</item>
-        <item>Не обслуговувати! (багато конструктивних недоліків)</item>
+    <string-array name="transmission_0bh">
+        <item>Liqui Moly 8100 (Doppelkupplungsgetriebe-öl)</item>
+        <item>7,4 л.</item>
+        <item>Meyle 100 136 0004</item>
+        <item>Увага! Є конструктивні недоліки. Якщо коробка працює з ривками - це НЕ масло</item>
     </string-array>
 
 
     <string-array name="transmission_0b5">
-        <item>спец. продукт</item>
-        <item>н/д</item>
-        <item>н/д</item>
-        <item>Не обслуговувати! (багато конструктивних недоліків)</item>
+        <item>Liqui Moly 8100 (Doppelkupplungsgetriebe-öl)</item>
+        <item>7 л.</item>
+        <item>Meyle 100 137 1004(зовнішній фільтр)\nMeyle 100 137 0003(фільтр в піддоні з прокладкою)</item>
+        <item>При регламентній заміні можна міняти тільки зовнішній фільтр
+            \nУвага! Є конструктивні недоліки. Якщо коробка працює з ривками - це НЕ масло</item>
     </string-array>
 
     <string-array name="transmission_0c8">
@@ -80,7 +81,7 @@
     <string-array name="transmission_0bk">
         <item>Liqui Moly Top Tec 1800</item>
         <item>9 л.</item>
-        <item>Meyle 100 137 0006</item>
+        <item>Meyle 100 137 0006\nДля авто з гібридним приводом - Vaico V10-2288</item>
     </string-array>
 
     <string-array name="transmission_09a">
