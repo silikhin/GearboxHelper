@@ -1,7 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="bora_bora_descr">Коробка 09А без піддону знизу</string>
-    <string name="caddy_caddy_descr">Якщо є фільтр АКПП біля акумулятора - коробка 02Е</string>
+    <string name="caddy_caddy_descr">1. Якщо є фільтр АКПП біля акумулятора - коробка 02Е
+        \n2. Коробка 02E ставилась тільки з двигунами 2,0</string>
     <string name="golf_iv_descr">Коробка 09А без піддону знизу</string>
     <string name="golf_v_descr">1. Якщо є фільтр АКПП біля акумулятора - коробка 02Е
         \n2. Якщо є піддон АКПП знизу - коробка 09G</string>
@@ -15,16 +16,20 @@
     <string name="passat_b6_descr">1. Якщо є фільтр АКПП біля акумулятора - коробка 02Е
         \n2. Якщо на прокладці піддону 9 отворів - коробка 09М
         \n3. Якщо на прокладці піддону 8 отворів - коробка 09G</string>
-    <string name="passat_b7_descr">Якщо є фільтр АКПП біля акумулятора - коробка 02Е</string>
-    <string name="passat_b8_descr">Якщо є фільтр АКПП біля акумулятора - коробка 02Е</string>
+    <string name="passat_b7_descr">1. Якщо є фільтр АКПП біля акумулятора - коробка 02Е
+        \n2. Коробка 02E ставилась тільки з двигунами 2,0</string>
+    <string name="passat_b8_descr">1. Коробка 0BH (DSG 7ст.) ставилась тільки з двигуном 2,0 BiTDI
+        \nЯкщо є фільтр АКПП біля акумулятора (двигун не BiTDI) - коробка 02Е</string>
     <string name="phaeton_phaeton_descr">Визначається по формі піддону і кількості отворів</string>
     <string name="polo_iii_descr">Визначається по формі піддону і кількості отворів</string>
     <string name="polo_iv_descr">Визначається по формі піддону і кількості отворів</string>
-    <string name="polo_v_descr">Якщо є піддон АКПП знизу - коробка 09M</string>
+    <string name="polo_v_descr">Визначається по формі піддону і кількості отворів</string>
     <string name="sharan_i_descr">Коробка 09А без піддону знизу</string>
     <string name="sharan_ii_descr">Якщо є фільтр АКПП біля акумулятора - коробка 02Е</string>
-    <string name="tiguan_tiguan_descr">1. Якщо є фільтр АКПП біля акумулятора - коробка 02Е
-        \n2. Якщо є піддон АКПП знизу - коробка 09M</string>
+    <string name="tiguan_tiguan_descr">1. Якщо є піддон АКПП знизу - коробка 09M
+        \n2. Якщо є фільтр АКПП біля акумулятора - коробка 02Е або 0BH
+        \n3. Перепитати клієнта, чи знає скільки передач має його КПП
+        \n4. Мати в наявності фільтр і на коробку 02Е, і на 0BH</string>
     <string name="touran_touran_descr">1. Якщо є фільтр АКПП біля акумулятора - коробка 02Е
         \n2. Якщо є піддон АКПП знизу - коробка 09G</string>
     <string name="transporter_t5_descr">Якщо є піддон АКПП знизу - коробка 09K</string>
