@@ -19,7 +19,6 @@ public class ActivityTransmission extends AppCompatActivity {
     String res_transmission; //resource array name
     int connector; // resource Id for String array
 
-//    TODO: add ImageView for Transmission
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
