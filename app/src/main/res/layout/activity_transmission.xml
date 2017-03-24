@@ -9,10 +9,10 @@
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:gravity="center"
-        android:padding="10dp"
+        android:background="@color/colorLayout100"
+        android:padding="15dp"
         android:textSize="24dp"
         android:text="Transmission"
-        android:textColor="#000000"
         android:id="@+id/tvTransmission" />
 
     <ListView
