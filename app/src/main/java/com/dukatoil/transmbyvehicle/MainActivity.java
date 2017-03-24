@@ -27,8 +27,6 @@ public class MainActivity extends AppCompatActivity {
     String[] cars_list, models_list, versions_list;
     String model_selected;
     final Context firstActivity = this;
-    final int screenWidth = ImageDecoding.getScreenWidth();;
-    final int screenHeight = ImageDecoding.getScreenHeight();
     LinearLayout.LayoutParams params_show = new LinearLayout.LayoutParams(ViewGroup.LayoutParams.MATCH_PARENT, ViewGroup.LayoutParams.WRAP_CONTENT);
     LinearLayout.LayoutParams image_params_show = new LinearLayout.LayoutParams(ViewGroup.LayoutParams.MATCH_PARENT, ViewGroup.LayoutParams.MATCH_PARENT);
     LinearLayout.LayoutParams params_hide = new LinearLayout.LayoutParams(ViewGroup.LayoutParams.MATCH_PARENT, 1);
@@ -55,9 +53,8 @@ public class MainActivity extends AppCompatActivity {
         lvVersions = (ListView) findViewById(R.id.lvVersions);
 
         imageMain = (ImageView) findViewById(R.id.imageView3);
-        Log.d("myLogs", "screenWidth=" + screenWidth + ", screenHeight=" + screenHeight);
         logMemory();
-        imageMain.setImageBitmap(ImageDecoding.decodeSampledBitmapFromResource(getResources(), R.drawable.ic_image_main, screenWidth, screenHeight));
+        imageMain.setImageBitmap(ImageDecoding.decodeSampledBitmapFromResource(getResources(), R.drawable.ic_image_main));
         logMemory();
 
         cars_list = getResources().getStringArray(R.array.cars);
