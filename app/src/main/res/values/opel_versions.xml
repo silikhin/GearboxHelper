@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="astra_versions">
+        <item>G (1998-2009)</item>
+        <item>H (2004-2014)</item>
+        <item>J (2009-2015)</item>
+    </string-array>
+
+    <string-array name="corsa_versions">
+        <item>B (1993-2000)</item>
+        <item>C (2000-2006)</item>
+        <item>D (2006-2014)</item>
+        <item>E (2014-)</item>
+    </string-array>
+
+
+    <string-array name="frontera_versions">
+        <item>Frontera B (1998-2004)</item>
+    </string-array>
+
+    <string-array name="insignia_versions">
+        <item>Insignia (2008-)</item>
+    </string-array>
+
+    <string-array name="meriva_versions">
+        <item>A (2002-2010)</item>
+        <item>B (2010-)</item>
+    </string-array>
+
+    <string-array name="mokka_versions">
+        <item>Mokka (2012-)</item>
+    </string-array>
+
+    <string-array name="omega_versions">
+        <item>B (1994-2003)</item>
+    </string-array>
+
+    <string-array name="signum_versions">
+        <item>Signum (2003-2009)</item>
+    </string-array>
+
+    <string-array name="tigra_versions">
+        <item>Tigra (1994-2001)</item>
+    </string-array>
+
+    <string-array name="vectra_versions">
+        <item>A (1988-1995)</item>
+        <item>B (1995-2002)</item>
+        <item>C (2002-2008)</item>
+    </string-array>
+
+    <string-array name="vivaro_versions">
+        <item>Vivaro (2006-)</item>
+    </string-array>
+
+    <string-array name="zafira_versions">
+        <item>A (1999-2005)</item>
+        <item>B (2005-2011)</item>
+        <item>C (2011-)</item>
+    </string-array>
+</resources>

@@ -337,6 +337,65 @@
         <item>Можна міняти тільки зовнішній фільтр</item>
     </string-array>
 
+    <string-array name="transmission_4l30">
+        <item>Liqui Moly Top Tec 1200\nTeboil Fluid S\n Zic Atf Multi</item>
+        <item>8,4 л.</item>
+        <item>SCT SG1040 (фільтр + прокладка)\nGM 96014235 (прокладка бокового піддону)</item>
+        <item>Рекомендовано міняти також прокладку бокового піддону (під гідротрансформатором)</item>
+    </string-array>
+
+    <string-array name="transmission_6t30">
+        <item>Liqui Moly Top Tec 1800</item>
+        <item>7,6 л.</item>
+        <item>Не міняється</item>
+    </string-array>
+
+    <string-array name="transmission_6t40">
+        <item>Liqui Moly Top Tec 1800</item>
+        <item>8,5 л.</item>
+        <item>Не міняється</item>
+    </string-array>
+
+    <string-array name="transmission_af13">
+        <item>Liqui Moly Top Tec 1200\nTeboil Fluid S\n Zic Atf Multi</item>
+        <item>7,5 л.</item>
+        <item>Не міняється</item>
+        <item>Переглянути можливість повної заміни</item>
+    </string-array>
+
+    <string-array name="transmission_af20">
+        <item>Liqui Moly Top Tec 1200\nTeboil Fluid S\n Zic Atf Multi</item>
+        <item>6,9.</item>
+        <item>Не міняється</item>
+    </string-array>
+
+    <string-array name="transmission_af23">
+        <item>Liqui Moly Top Tec 1200\nTeboil Fluid S\n Zic Atf Multi</item>
+        <item>7,2 л.</item>
+        <item>Не міняється</item>
+    </string-array>
+
+
+    <string-array name="transmission_af40">
+        <item>Liqui Moly Top Tec 1800\nMotul Multi Atf</item>
+        <item>7 л.</item>
+        <item>Не міняється</item>
+    </string-array>
+
+    <string-array name="transmission_semi">
+        <item>Трансмісійне (див. каталоги по підбору)</item>
+        <item>н/д</item>
+        <item>Не міняється</item>
+        <item>Коробка=механічна</item>
+    </string-array>
+
+    <string-array name="transmission_vt20e">
+        <item>Спец. продукт</item>
+        <item>8 л.</item>
+        <item>Не міняється</item>
+        <item>Обслуговувати тільки зі своїм маслом (немає достовірної інформації про масло, яке має бути)</item>
+    </string-array>
+
     <string-array name="transmission_a140e">
         <item>Toyota T4\nLiqui Moly Top Tec 1200\nTeboil Fluid S\nZic Atf Multi</item>
         <item>5,6 л.</item>

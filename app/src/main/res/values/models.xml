@@ -58,6 +58,21 @@
         <item>Space Star</item>
     </string-array>
 
+    <string-array name="opel_models">
+        <item>Astra</item>
+        <item>Corsa</item>
+        <item>Frontera</item>
+        <item>Insignia</item>
+        <item>Meriva</item>
+        <item>Mokka</item>
+        <item>Omega</item>
+        <item>Signum</item>
+        <item>Tigra</item>
+        <item>Vectra</item>
+        <item>Vivaro</item>
+        <item>Zafira</item>
+    </string-array>
+
     <string-array name="toyota_models">
         <item>Avensis</item>
         <item>Camry</item>

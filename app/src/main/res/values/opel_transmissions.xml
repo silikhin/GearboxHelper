@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="astra_g">
+        <item>AF13 (AF17) (4ст. АКПП)</item>
+        <item>AF20 (AF22) (4ст. АКПП)</item>
+        <item>Semi automatic (робот)</item>
+    </string-array>
+
+    <string-array name="astra_h">
+        <item>AF13 (AF17) (4ст. АКПП)</item>
+        <item>AF40 (6ст. АКПП)</item>
+        <item>Semi automatic (робот)</item>
+    </string-array>
+
+    <string-array name="astra_j">
+        <item>6T40 (6ст. АКПП)</item>
+        <item>AF40 (6ст. АКПП)</item>
+    </string-array>
+
+    <string-array name="corsa_b">
+        <item>AF13 (AF17) (4ст. АКПП)</item>
+    </string-array>
+
+
+    <string-array name="corsa_c">
+        <item>Semi automatic (робот)</item>
+        <item>AF13 (AF17) (4ст. АКПП)</item>
+    </string-array>
+
+    <string-array name="corsa_d">
+        <item>Semi automatic (робот)</item>
+        <item>AF13 (AF17) (4ст. АКПП)</item>
+    </string-array>
+
+    <string-array name="corsa_e">
+        <item>Semi automatic (робот)</item>
+        <item>6T30 (6ст. АКПП)</item>
+    </string-array>
+
+    <string-array name="frontera_frontera">
+        <item>4L30 (4ст. АКПП)</item>
+    </string-array>
+
+    <string-array name="insignia_insignia">
+        <item>6T40 (6ст. АКПП)</item>
+        <item>AF40 (6ст. АКПП)</item>
+    </string-array>
+
+    <string-array name="meriva_a">
+        <item>Semi automatic (робот)</item>
+    </string-array>
+
+    <string-array name="meriva_b">
+        <item>AF40 (6ст. АКПП)</item>
+    </string-array>
+
+    <string-array name="mokka_mokka">
+        <item>6T40 (6ст. АКПП)</item>
+    </string-array>
+
+    <string-array name="omega_b">
+        <item>4L30 (4ст. АКПП)</item>
+        <item>5L40e (5ст. АКПП)</item>
+    </string-array>
+
+    <string-array name="signum_signum">
+        <item>AF23 (AF33) (5ст. АКПП)</item>
+        <item>AF40 (6ст. АКПП)</item>
+        <item>VT20E (CVT)</item>
+    </string-array>
+
+    <string-array name="tigra_tigra">
+        <item>AF13 (AF17) (4ст. АКПП)</item>
+    </string-array>
+
+    <string-array name="vectra_a">
+        <item>AF20 (AF22) (4ст. АКПП)</item>
+    </string-array>
+
+    <string-array name="vectra_b">
+        <item>AF13 (AF17) (4ст. АКПП)</item>
+        <item>AF20 (AF22) (4ст. АКПП)</item>
+    </string-array>
+
+    <string-array name="vectra_c">
+        <item>AF23 (AF33) (5ст. АКПП)</item>
+        <item>AF40 (6ст. АКПП)</item>
+        <item>VT20E (CVT)</item>
+    </string-array>
+
+    <string-array name="vivaro_vivaro">
+        <item>Semi automatic (робот)</item>
+    </string-array>
+
+    <string-array name="zafira_a">
+        <item>AF13 (AF17) (4ст. АКПП)</item>
+        <item>AF20 (AF22) (4ст. АКПП)</item>
+    </string-array>
+
+    <string-array name="zafira_b">
+        <item>Semi automatic (робот)</item>
+        <item>AF20 (AF22) (4ст. АКПП)</item>
+        <item>AF40 (6ст. АКПП)</item>
+    </string-array>
+
+    <string-array name="zafira_c">
+        <item>6T40 (6ст. АКПП)</item>
+        <item>AF40 (6ст. АКПП)</item>
+    </string-array>
+</resources>
