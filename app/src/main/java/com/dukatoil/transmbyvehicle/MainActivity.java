@@ -2,7 +2,6 @@ package com.dukatoil.transmbyvehicle;
 
 import android.content.Context;
 import android.content.Intent;
-import android.content.res.Resources;
 import android.graphics.Color;
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
@@ -17,6 +16,8 @@ import android.widget.LinearLayout;
 import android.widget.ListView;
 import android.widget.TextView;
 import android.widget.Toast;
+
+import java.util.concurrent.ExecutionException;
 
 public class MainActivity extends AppCompatActivity {
 
@@ -53,9 +54,15 @@ public class MainActivity extends AppCompatActivity {
         lvVersions = (ListView) findViewById(R.id.lvVersions);
 
         imageMain = (ImageView) findViewById(R.id.imageView3);
-        logMemory();
-        imageMain.setImageBitmap(ImageDecoding.decodeSampledBitmapFromResource(getResources(), R.drawable.ic_image_main));
-        logMemory();
+        ImageDecodeTask idt = new ImageDecodeTask(firstActivity);
+        idt.execute(R.drawable.ic_image_main);
+        try {
+            imageMain.setImageBitmap(idt.get());
+        } catch (InterruptedException e) {
+            e.printStackTrace();
+        } catch (ExecutionException e) {
+            e.printStackTrace();
+        }
 
         cars_list = getResources().getStringArray(R.array.cars);
 
@@ -143,7 +150,6 @@ public class MainActivity extends AppCompatActivity {
                 // hide Layout with lvVersions
                 llVersions.setLayoutParams(params_hide);
                 llPrimary4.setLayoutParams(image_params_show);
-                logMemory();
                 llPrimary3.setBackgroundColor(getResources().getColor(R.color.colorLayout300));
                 // show FloatingActionButton
                 fabButton.showFloatingActionButton();
@@ -205,10 +211,5 @@ public class MainActivity extends AppCompatActivity {
                 }
             }
         });
-    }
-
-    private void logMemory() {
-        Log.d("myLogs", String.format("Total memory = %s",
-                (int) (Runtime.getRuntime().totalMemory() / 1024)));
     }
 }
