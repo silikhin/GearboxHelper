@@ -78,12 +78,5 @@ public class ActivityVariants extends AppCompatActivity {
                 }
             });
         }
-
-        logMemory();
-    }
-
-    private void logMemory() {
-        Log.d("myLogs", String.format("Total memory = %s",
-                (int) (Runtime.getRuntime().totalMemory() / 1024)));
     }
 }
