@@ -40,12 +40,5 @@ public class ActivityTransmission extends AppCompatActivity {
 
         ArrayAdapterInfo adapter = new ArrayAdapterInfo(this, R.layout.item_activity_transmission, title, components);
         lvAbout.setAdapter(adapter);
-
-        logMemory();
-    }
-
-    private void logMemory() {
-        Log.d("myLogs", String.format("Total memory = %s",
-                (int) (Runtime.getRuntime().totalMemory() / 1024)));
     }
 }
