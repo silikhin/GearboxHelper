@@ -7,8 +7,10 @@ import android.graphics.Color;
 import android.support.v7.app.AlertDialog;
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
+import android.support.v7.widget.Toolbar;
 import android.util.Log;
 import android.view.Gravity;
+import android.view.Menu;
 import android.view.View;
 import android.widget.AdapterView;
 import android.widget.ArrayAdapter;
@@ -16,6 +18,7 @@ import android.widget.ListView;
 
 public class ActivityVariants extends AppCompatActivity {
 
+    Toolbar toolbar;
     final Context secondActivity = this;
     String extra; // extra from MainActivity (type "model_variant"
     int connector, connector1; // resource id for transmission variants
@@ -26,6 +29,9 @@ public class ActivityVariants extends AppCompatActivity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_variants);
+
+        toolbar = (Toolbar) findViewById(R.id.toolbar);
+        setSupportActionBar(toolbar);
 
         Intent intent = getIntent();
         extra = intent.getStringExtra("version").toLowerCase();
@@ -78,5 +84,11 @@ public class ActivityVariants extends AppCompatActivity {
                 }
             });
         }
+    }
+
+    @Override
+    public boolean onCreateOptionsMenu(Menu menu) {
+        getMenuInflater().inflate(R.menu.main, menu);
+        return true;
     }
 }
