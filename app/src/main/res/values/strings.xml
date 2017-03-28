@@ -11,4 +11,8 @@
         <item>Фільтр та прокладка</item>
         <item>Примітки</item>
     </string-array>
+    <string name="menuTitlePhoto">Фільтр та прокладка</string>
+    <string name="menuTitleFAQ">Часто задавані питання</string>
+    <string name="menuTitleProblems">Список типових несправностей</string>
+    <string name="menuTitleContacts">Контакти</string>
 </resources>
