@@ -1,10 +1,13 @@
 package com.dukatoil.transmbyvehicle;
 
+import android.content.DialogInterface;
 import android.content.Intent;
+import android.support.v7.app.AlertDialog;
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
 import android.support.v7.widget.Toolbar;
 import android.view.Menu;
+import android.view.MenuItem;
 import android.widget.ListView;
 import android.widget.TextView;
 
@@ -50,5 +53,36 @@ public class ActivityTransmission extends AppCompatActivity {
     public boolean onCreateOptionsMenu(Menu menu) {
         getMenuInflater().inflate(R.menu.transm_menu, menu);
         return true;
+    }
+
+    @Override
+    public boolean onOptionsItemSelected(MenuItem item) {
+        Intent intent;
+        switch (item.getItemId()){
+            case R.id.faq:
+                intent = new Intent(this, ActivityFaq.class);
+                startActivity(intent);
+                return true;
+            case R.id.problems:
+                intent = new Intent(this, ActivityProblems.class);
+                startActivity(intent);
+                return true;
+            case R.id.contacts:
+                AlertDialog.Builder builder = new AlertDialog.Builder(this);
+                builder.setMessage(getResources().getString(R.string.contacts))
+                        .setTitle(R.string.menuTitleContacts)
+                        .setCancelable(true)
+                        .setNegativeButton(R.string.button_ok, new DialogInterface.OnClickListener() {
+                            @Override
+                            public void onClick(DialogInterface dialogInterface, int i) {
+                                dialogInterface.cancel();
+                            }
+                        });
+                AlertDialog dialog = builder.create();
+                dialog.show();
+                return true;
+            default:
+                return super.onOptionsItemSelected(item);
+        }
     }
 }

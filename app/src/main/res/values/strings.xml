@@ -15,4 +15,7 @@
     <string name="menuTitleFAQ">Часто задавані питання</string>
     <string name="menuTitleProblems">Список типових несправностей</string>
     <string name="menuTitleContacts">Контакти</string>
+    <string name="contacts">Автор: Борис Сіліхін
+    \nE-mail: silihin@gmail.com
+    \nFacebook: www.facebook.com/b.silihin</string>
 </resources>

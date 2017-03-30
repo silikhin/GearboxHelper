@@ -1,8 +1,10 @@
 package com.dukatoil.transmbyvehicle;
 
 import android.content.Context;
+import android.content.DialogInterface;
 import android.content.Intent;
 import android.graphics.Color;
+import android.support.v7.app.AlertDialog;
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
 import android.support.v7.widget.Toolbar;
@@ -232,10 +234,25 @@ public class MainActivity extends AppCompatActivity {
             case R.id.faq:
                 intent = new Intent(firstActivity, ActivityFaq.class);
                 startActivity(intent);
+                return true;
             case R.id.problems:
                 intent = new Intent(firstActivity, ActivityProblems.class);
                 startActivity(intent);
-
+                return true;
+            case R.id.contacts:
+                AlertDialog.Builder builder = new AlertDialog.Builder(firstActivity);
+                builder.setMessage(getResources().getString(R.string.contacts))
+                        .setTitle(R.string.menuTitleContacts)
+                        .setCancelable(true)
+                        .setNegativeButton(R.string.button_ok, new DialogInterface.OnClickListener() {
+                            @Override
+                            public void onClick(DialogInterface dialogInterface, int i) {
+                                dialogInterface.cancel();
+                            }
+                        });
+                AlertDialog dialog = builder.create();
+                dialog.show();
+                return true;
             default:
                 return super.onOptionsItemSelected(item);
         }

@@ -10,6 +10,7 @@ import android.os.Bundle;
 import android.support.v7.widget.Toolbar;
 import android.view.Gravity;
 import android.view.Menu;
+import android.view.MenuItem;
 import android.view.View;
 import android.widget.AdapterView;
 import android.widget.ArrayAdapter;
@@ -89,5 +90,36 @@ public class ActivityVariants extends AppCompatActivity {
     public boolean onCreateOptionsMenu(Menu menu) {
         getMenuInflater().inflate(R.menu.main_menu, menu);
         return true;
+    }
+
+    @Override
+    public boolean onOptionsItemSelected(MenuItem item) {
+        Intent intent;
+        switch (item.getItemId()){
+            case R.id.faq:
+                intent = new Intent(secondActivity, ActivityFaq.class);
+                startActivity(intent);
+                return true;
+            case R.id.problems:
+                intent = new Intent(secondActivity, ActivityProblems.class);
+                startActivity(intent);
+                return true;
+            case R.id.contacts:
+                AlertDialog.Builder builder = new AlertDialog.Builder(secondActivity);
+                builder.setMessage(getResources().getString(R.string.contacts))
+                        .setTitle(R.string.menuTitleContacts)
+                        .setCancelable(true)
+                        .setNegativeButton(R.string.button_ok, new DialogInterface.OnClickListener() {
+                            @Override
+                            public void onClick(DialogInterface dialogInterface, int i) {
+                                dialogInterface.cancel();
+                            }
+                        });
+                AlertDialog dialog = builder.create();
+                dialog.show();
+                return true;
+            default:
+                return super.onOptionsItemSelected(item);
+        }
     }
 }
