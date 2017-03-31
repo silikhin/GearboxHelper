@@ -21,6 +21,8 @@ public class ActivityTransmission extends AppCompatActivity {
     String[] title, components;
     String extra; // extra from ActivityVariants (like "5hp19")
     String res_transmission; //resource array name
+    final int menu_main = R.menu.main_menu;
+    final int transm_menu = R.menu.transm_menu;
     int connector; // resource Id for String array
 
     @Override
@@ -37,7 +39,8 @@ public class ActivityTransmission extends AppCompatActivity {
         Intent intent = getIntent();
         extra = intent.getStringExtra("transmission");
         tvTransmission.setText(extra);
-        res_transmission = "transmission_" + extra.toLowerCase().split(" ")[0].replaceAll("[.-]", "_");
+        extra = extra.toLowerCase().split(" ")[0].replaceAll("[.-]", "_");
+        res_transmission = "transmission_" + extra;
         connector = getResources().getIdentifier(res_transmission, "array", getPackageName());
         components = getResources().getStringArray(connector);
         title = getResources().getStringArray(R.array.title_act_transm);
@@ -51,7 +54,12 @@ public class ActivityTransmission extends AppCompatActivity {
 
     @Override
     public boolean onCreateOptionsMenu(Menu menu) {
-        getMenuInflater().inflate(R.menu.transm_menu, menu);
+        int menuID;
+        if (components[2].startsWith("не"))
+            menuID = menu_main;
+        else
+            menuID = transm_menu;
+        getMenuInflater().inflate(menuID, menu);
         return true;
     }
 
@@ -80,6 +88,11 @@ public class ActivityTransmission extends AppCompatActivity {
                         });
                 AlertDialog dialog = builder.create();
                 dialog.show();
+                return true;
+            case R.id.photo:
+                intent = new Intent(this, ActivityPhoto.class);
+                intent.putExtra("photo", extra);
+                startActivity(intent);
                 return true;
             default:
                 return super.onOptionsItemSelected(item);

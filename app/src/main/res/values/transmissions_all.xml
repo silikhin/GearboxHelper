@@ -50,9 +50,9 @@
     </string-array>
 
     <string-array name="transmission_dq200">
-        <item>н/д</item>
-        <item>н/д</item>
-        <item>н/д</item>
+        <item>Спец. продукт.</item>
+        <item>2 л.</item>
+        <item>не міняється</item>
         <item>Коробка не обслуговується</item>
     </string-array>
 
@@ -314,20 +314,20 @@
     <string-array name="transmission_aw30_43">
         <item>Liqui Moly Top Tec 1200\nTeboil Fluid S\n Zic Atf Multi</item>
         <item>9.8 л.</item>
-        <item>8 варіантів (не міняти)</item>
+        <item>не міняти (8 варіантів)</item>
         <item>Фільтр металева сітка (можна не міняти)</item>
     </string-array>
 
     <string-array name="transmission_f1c1">
         <item>Castrol Transmax CVT\nComma AQCVT</item>
         <item>7,1 л.</item>
-        <item>Не міняється (без піддону)</item>
+        <item>не міняється (без піддону)</item>
     </string-array>
 
     <string-array name="transmission_jf613e">
         <item>Liqui Moly Top Tec 1200\nTeboil Fluid S\n Zic Atf Multi</item>
         <item>8,2 л.</item>
-        <item>Не міняється (без піддону)</item>
+        <item>не міняється (без піддону)</item>
     </string-array>
 
     <string-array name="transmission_jf011e">
@@ -347,52 +347,52 @@
     <string-array name="transmission_6t30">
         <item>Liqui Moly Top Tec 1800</item>
         <item>7,6 л.</item>
-        <item>Не міняється</item>
+        <item>не міняється</item>
     </string-array>
 
     <string-array name="transmission_6t40">
         <item>Liqui Moly Top Tec 1800</item>
         <item>8,5 л.</item>
-        <item>Не міняється</item>
+        <item>не міняється</item>
     </string-array>
 
     <string-array name="transmission_af13">
         <item>Liqui Moly Top Tec 1200\nTeboil Fluid S\n Zic Atf Multi</item>
         <item>7,5 л.</item>
-        <item>Не міняється</item>
+        <item>не міняється</item>
         <item>Переглянути можливість повної заміни</item>
     </string-array>
 
     <string-array name="transmission_af20">
         <item>Liqui Moly Top Tec 1200\nTeboil Fluid S\n Zic Atf Multi</item>
         <item>6,9.</item>
-        <item>Не міняється</item>
+        <item>не міняється</item>
     </string-array>
 
     <string-array name="transmission_af23">
         <item>Liqui Moly Top Tec 1200\nTeboil Fluid S\n Zic Atf Multi</item>
         <item>7,2 л.</item>
-        <item>Не міняється</item>
+        <item>не міняється</item>
     </string-array>
 
 
     <string-array name="transmission_af40">
         <item>Liqui Moly Top Tec 1800\nMotul Multi Atf</item>
         <item>7 л.</item>
-        <item>Не міняється</item>
+        <item>не міняється</item>
     </string-array>
 
     <string-array name="transmission_semi">
         <item>Трансмісійне (див. каталоги по підбору)</item>
         <item>н/д</item>
-        <item>Не міняється</item>
+        <item>не міняється</item>
         <item>Коробка=механічна</item>
     </string-array>
 
     <string-array name="transmission_vt20e">
         <item>Спец. продукт</item>
         <item>8 л.</item>
-        <item>Не міняється</item>
+        <item>не міняється</item>
         <item>Обслуговувати тільки зі своїм маслом (немає достовірної інформації про масло, яке має бути)</item>
     </string-array>
 
@@ -523,7 +523,7 @@
     <string-array name="transmission_sequental">
         <item>75w90</item>
         <item>2 л.</item>
-        <item>відсутній</item>
+        <item>не міняється (відсутній)</item>
         <item>Коробка = механічна</item>
     </string-array>
 </resources>
